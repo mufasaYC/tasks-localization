@@ -1,0 +1,256 @@
+/* accepting a shared project */
+"acceptingShare" = "Accepting share...";
+
+"text" = "Text";
+
+"date" = "Date";
+
+"subtasks" = "Subtasks";
+
+/* image, pdf, video, document, etc */
+"assets" = "Assets";
+"images" = "Images";
+
+/* tag for a task e.g. grocery, medicine, etc. */
+"tag" = "Tag";
+"tags" = "Tags";
+
+/* status of a task e.g. todo or done */
+"status" = "Status";
+"statuses" = "Statuses";
+
+"project" = "Project";
+"projects" = "Projects";
+
+/* type of a task e.g. new feature or improvement */
+"taskType" = "Task Type";
+"tasktypes" = "Task Types";
+
+"priority" = "Priority";
+"priorities" = "Priorities";
+
+"notSupported" = "Not Supported";
+
+/* e.g. Select Status, Select Tag */
+"selectType" = "Select %@";
+
+"description" = "Description";
+
+"taskFieldTextPlaceholder" = "Description, Link, etc";
+"taskFieldDatePlaceholder" = "Deadline, etc";
+"taskFieldSubtaskPlaceholder" = "Subtasks, Duplicate, etc";
+"taskFieldAssetPlaceholder" = "Images, Attachments, etc";
+"taskFieldProjectPlaceholder" = "Home, Work, Travel";
+
+"taskFieldTextDescription" = "A text field";
+"taskFieldDateDescription" = "For fields where you required a date input";
+"taskFieldSubtaskDescription" = "If you would like your tasks to have reference to subtasks";
+"taskFieldAssetDescription" = "Allows your tasks to contain a collection of assets. Currently we support just images";
+"taskFieldTagDescription" = "Add tags to your tasks to help you understand and categorise them better";
+"taskFieldStatusDescription" = "The project to which the task belongs to";
+"taskFieldProjectDescription" = "Not Supported, kindly update to use this";
+"taskFieldTypeDescription" = "Assign a priority to your tasks";
+"taskFieldPriorityDescription" = "Choose and assign a type to your tasks";
+"taskFieldNotSupportedDescription" = "This helps understand the completion of a task";
+
+/* e.g. All Statuses, All Tags */
+"allType" = "All %@";
+
+/* e.g. Enter a new tag, Enter a new status */
+"enterNewType" = "Enter a new %@";
+
+/* e.g. Editing project, Editing Task */
+"editingType" = "Editing %@";
+
+/* e.g. New Tag, New Status */
+"newType" = "New %@";
+
+"purchasePointsTitle" = "Some of the plus features include";
+"purchaseScreenSupport" = "Support indie development";
+"purchaseScreenShare" = "Share projects for collaboration";
+"purchaseScreenUnlimitedProjects" = "No limit on number of projects";
+"purchaseScreenSync" = "iCloud sync and backup";
+"purchaseScreenIcons" = "Choose from multiple app icons";
+"purchaseScreenDevices" = "Available on iPhone, iPad and Mac (launching soon) at no additional cost";
+
+/* settings section headers */
+"general" = "General";
+"security" = "Security";
+"integrations" = "Integrations";
+"sharing" = "Sharing";
+"reachUs" = "Reach us";
+"legal" = "Legal";
+
+"settingIntegrationFooter" = "Drop us a suggestion for integrations";
+
+"appIcons" = "App icons";
+"edit" = "Edit";
+"iCloudSharing" = "iCloud sharing";
+"lockWith" = "Lock with %@";
+"notifcationSettings" = "Notification settings";
+"importNotes" = "Import notes";
+"importReminders" = "Import reminders";
+"modifyStatuses" = "Modify task statuses";
+"contactUs" = "Contact us";
+"twitter" = "Tweet us";
+"review" = "Review the app";
+"privacy" = "Privacy policy";
+"termsOfUse" = "Terms of use";
+"telegram" = "Telegram";
+
+"settingTitleIconsDescription" = "Change the app's icon";
+"settingTitleEditDescription" = "Edit your project details";
+"settingTitleSharingDescription" = "Invite and manage people to collaborate";
+"settingTitleBiometricDescription" = "Secure your project with %@";
+"settingTitleNotifcationDescription" = "Manage your notification settings";
+"settingTitleImportNotesDescription" = "Convert your notes into tasks";
+"settingTitleImportRemindersDescription" = "Import your pending reminders";
+"settingTitleStatusDescription" = "Add, reorder or modify statuses";
+"settingTitleContactDescription" = "Request a feature or ask us anything.";
+"settingTitleTwitterDescription" = "Share some love.";
+"settingTitleReviewDescription" = "Tell us what we are doing correct or wrong.";
+"settingTitlePrivacyDescription" = "We have nothing on you.";
+"settingTitleTermsDescription" = "It's very simple.";
+"settingTitleTelegramDescription" = "Discuss and share your feedback.";
+
+"createTask" = "Create a task";
+"editTask" = "Editing task";
+
+"addField" = "Add Field";
+
+"lock" = "Lock";
+"unlock" = "Unlock";
+"invite" = "Invite people";
+"delete" = "Delete";
+"settings" = "Settings";
+
+"bug" = "Bug";
+"bugDescription" = "A problem or error.";
+"newFeature" = "New Feature";
+"newFeatureDescription" = "A new feature of the product.";
+"improvement" = "Improvement";
+"improvementDescription" = "An improvement or enhancement to an existing feature or task.";
+
+"lowPriority" = "Low";
+"mediumPriority" = "Medium";
+"highPriority" = "High";
+
+"title" = "Title";
+"notes" = "Notes";
+"endDate" = "End date";
+
+/* task status todo, done, complete, etc */
+"initialStatusTodo" = "Todo";
+"initialStatusDone" = "Done";
+
+"unnamedProject" = "Unnamed Project";
+
+"plusUser" = "You are a Tasks Plus user\nTake advantage of all the features";
+"yearly" = "Yearly";
+"lifetime" = "Lifetime";
+"purchasing" = "Purchasing Task+ %@";
+"restore" = "Restore Purchase";
+"restoring" = "Restoring your previous purchases";
+
+"importReminderScreen" = "It's as simple as the tap of a button 😃";
+"noReminders" = "No reminders found";
+"successfullyImported" = "Added!";
+
+"search" = "Search";
+
+"confimation" = "Are you sure?";
+
+/* Mark as Todo, Mark as Done */
+"markAsNewStatus" = "Mark as %@";
+
+"creatingField" = "Enter a title for the field";
+"selectFieldInput" = "Select input field";
+"reorderFields" = "Reorder fields";
+"reorderingFields" = "Reordering fields";
+"cancelReordering" = "Cancel reordering";
+
+"chooseAnAction" = "Choose an action";
+"view" = "View";
+"cancel" = "Cancel";
+
+"deleteConfirmationMessage" = "Are your sure you want to delete %@?";
+
+"createNewTag" = "create a new tag \"%@\"";
+
+"unnamedTag" = "Unnamed tag";
+"all" = "All";
+"today" = "Today";
+"thisWeek" = "This week";
+"late" = "Late";
+
+"photoOptionTakePhoto" = "Take photo";
+"photoOptionCameraRoll" = "Camera roll";
+"photoOptionPhotoLibrary" = "Photo Library";
+
+"currentStatuses" = "Current Statuses";
+"statusFooterLabel" = "\nTap to edit existing statuses.\n\nYou can add new statuses by tapping + on the top right menu";
+
+"lockedProjectAuthentication" = "%@ is locked, kindly prove your identity to proceed";
+
+"back" = "Back";
+
+"sharedFeature" = "Only for shared projects";
+
+"plusUnlock" = "Unlock all features";
+"learnMore" = "Learn more";
+
+"sampleTask0" = "e.g., Pick up flowers today at 3PM";
+"sampleTask1" = "e.g., Buy a cake next Friday";
+"sampleTask2" = "e.g., Call Alex at 12:30PM";
+"sampleTask3" = "e.g., Buy some fruits tomorrow";
+"sampleTask4" = "e.g., Speak to Kate tomorrow afternoon";
+
+/* Set the date to 9:00PM */
+"set" = "Set";
+
+"onboardingText" = "Create tasks, share projects, customize your workflow and much more";
+
+"noteImport" = "Simply copy the text and we will draft the tasks for you 😃";
+"paste" = "Paste";
+"nothingCopied" = "Nothing has been copied";
+
+"somethingWentWrong" = "Oops, something went wrong";
+
+"noTags" = "You have no tags created";
+
+"loading" = "Loading...";
+
+"pendingTasks" = "%@ pending tasks";
+
+"or" = "or";
+"createProject" = "Create Project";
+"sampleProject" = "Try sample project";
+"projectCreatedTitle" = "😃 Yay, now add tasks in your project";
+
+"welcomeTitle" = "👋 Hello, let's get you started!";
+"welcomeSubtitle" = "Create your first project!\nProjects are a collection of tasks, like";
+
+"home" = "Home";
+"work" = "Work";
+"awesomeProject" = "My Awesome Project";
+
+"performActionSuchAs" = "You can perform actions such as";
+"longPressingText" = "by long pressing on your %@!";
+
+"createTag" = "Create Tag";
+"createTagTitle" = "🏷 Looks like this project has no tags.";
+"createTagSubtitle" = "Tags help you organise your tasks better. This helps with quick access and an easy overview. Some examples are";
+"and" = "and";
+"kitchen" = "kitchen";
+"kids" = "kids";
+"feature" = "feature";
+"ideas" = "ideas";
+
+"comingSoon" = "Coming soon";
+"comingSoonMessage" = "Support for %@ will be available soon!";
+"deleteTitle" = "This action cannot be undone";
+
+"popular" = "Popular";
+
+/* e.g. 50% off */
+"sale" = "%@ off";
