@@ -1,4 +1,4 @@
-### tasks-localization
+# tasks-localization
 
 This is the community language repository for [Tasks](https://apps.apple.com/in/app/tasks-stay-ahead/id1502903102).
 
