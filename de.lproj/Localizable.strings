@@ -45,57 +45,57 @@
 "taskFieldTextDescription" = "Ein Textfeld";
 "taskFieldDateDescription" = "Felder die ein Datum erwarten";
 "taskFieldSubtaskDescription" = "Wenn dein Task einen Subtask haben soll";
-"taskFieldAssetDescription" = "Allows your tasks to contain a collection of assets. Currently we support just images";
-"taskFieldTagDescription" = "Add tags to your tasks to help you understand and categorise them better";
-"taskFieldStatusDescription" = "The project to which the task belongs to";
-"taskFieldProjectDescription" = "Not Supported, kindly update to use this";
-"taskFieldTypeDescription" = "Assign a priority to your tasks";
-"taskFieldPriorityDescription" = "Choose and assign a type to your tasks";
-"taskFieldNotSupportedDescription" = "This helps understand the completion of a task";
+"taskFieldAssetDescription" = "Dein Task kann alle Assets enthalten. Zur Zeit unterstützen wir nur Bilder";
+"taskFieldTagDescription" = "Füge Tags zu deinen Tasks hinzu um sie besser zu oransieren zu verstehen";
+"taskFieldStatusDescription" = "Das Projekt zu diesem Task";
+"taskFieldProjectDescription" ="";
+"taskFieldTypeDescription" = "Gib deinem Task eine Priorität";
+"taskFieldPriorityDescription" = "Wähle einen Type für deinen Task";
+"taskFieldNotSupportedDescription" = "Dies hilft den Task zu verstehen";
 
 /* e.g. All Statuses, All Tags */
-"allType" = "All %@";
+"allType" = "Alle %@";
 
 /* e.g. Enter a new tag, Enter a new status */
-"enterNewType" = "Enter a new %@";
+"enterNewType" = "Füge einen neuen %@ hinzu";
 
 /* e.g. Editing project, Editing Task */
-"editingType" = "Editing %@";
+"editingType" = "Bearbeite %@";
 
 /* e.g. New Tag, New Status */
-"newType" = "New %@";
+"newType" = "Neuer %@";
 
-"purchasePointsTitle" = "Some of the plus features include";
-"purchaseScreenSupport" = "Support indie development";
-"purchaseScreenShare" = "Share projects for collaboration";
-"purchaseScreenUnlimitedProjects" = "No limit on number of projects";
-"purchaseScreenSync" = "iCloud sync and backup";
-"purchaseScreenIcons" = "Choose from multiple app icons";
-"purchaseScreenDevices" = "Available on iPhone, iPad and Mac (launching soon) at no additional cost";
+"purchasePointsTitle" = "Zusätzliche Features enthalten";
+"purchaseScreenSupport" = "Unterstütze indie development";
+"purchaseScreenShare" = "Teile Projekte um zusammen zu arbeiten";
+"purchaseScreenUnlimitedProjects" = "Unlimitierte Projekte";
+"purchaseScreenSync" = "iCloud synchonisation und Backup";
+"purchaseScreenIcons" = "Wähle aus mehreren App Icons";
+"purchaseScreenDevices" = "Verfügbar auf iPhone, iPad and Mac (kommt bald) ohne zusätzliche Kosten";
 
 /* settings section headers */
-"general" = "General";
-"security" = "Security";
-"integrations" = "Integrations";
-"sharing" = "Sharing";
-"reachUs" = "Reach us";
-"legal" = "Legal";
+"general" = "Allgemein";
+"security" = "Sicherheit";
+"integrations" = "Integration";
+"sharing" = "Teilen";
+"reachUs" = "Kontakt";
+"legal" = "Rechtliches";
 
-"settingIntegrationFooter" = "Drop us a suggestion for integrations";
+"settingIntegrationFooter" = "Sag uns welche Integrationen du dir wünschen würdest.";
 
-"appIcons" = "App icons";
-"edit" = "Edit";
-"iCloudSharing" = "iCloud sharing";
-"lockWith" = "Lock with %@";
-"notifcationSettings" = "Notification settings";
-"importNotes" = "Import notes";
-"importReminders" = "Import reminders";
-"modifyStatuses" = "Modify task statuses";
-"contactUs" = "Contact us";
-"twitter" = "Tweet us";
-"review" = "Review the app";
-"privacy" = "Privacy policy";
-"termsOfUse" = "Terms of use";
+"appIcons" = "App Icons";
+"edit" = "Bearbeiten";
+"iCloudSharing" = "iCloud teilen";
+"lockWith" = "versperren mit %@";
+"notifcationSettings" = "Benachrichtigungseinstellungen";
+"importNotes" = "Notitzen importieren";
+"importReminders" = "Erinnerungen importieren";
+"modifyStatuses" = "Task Status verändern";
+"contactUs" = "kontaktiere uns";
+"twitter" = "sende uns einen Tweet";
+"review" = "Review die App";
+"privacy" = "Datenschutzrichtlinie";
+"termsOfUse" = "AGB";
 "telegram" = "Telegram";
 
 "settingTitleIconsDescription" = "Change the app's icon";
