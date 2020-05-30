@@ -2,7 +2,7 @@
 
 This is the community language repository for [Tasks](https://apps.apple.com/app/tasks-stay-ahead/id1502903102).
 
-If there is a language you'd like to see Broadcasts localized to but we haven't got around to it yet, and you have some git-fu, feel free to submit a pull request to the repository.
+If there is a language you'd like to see Tasks localized to but we haven't got around to it yet, and you have some git-fu, feel free to submit a pull request to the repository.
 
 Please do not add multiple languages in the same pull request — this way, there can be a discussion thread for each language for any changes or tweaks that need to be made, and give others opportunity for peer review.
 
