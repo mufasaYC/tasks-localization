@@ -254,3 +254,11 @@
 
 /* e.g. 50% off */
 "sale" = "%@ off";
+
+"comments" = "Comments";
+"comment" = "Comment";
+"you" = "You";
+"user" = "User";
+
+"edited" = "Edited";
+"firstComment" = "Leave your first comment";

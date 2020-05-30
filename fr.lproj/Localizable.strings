@@ -259,3 +259,6 @@
 "comment" = "Commentaire";
 "you" = "Vous";
 "user" = "Utilisateur";
+
+"edited" = "Edited";
+"firstComment" = "Leave your first comment";
