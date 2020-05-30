@@ -1,52 +1,52 @@
 /* accepting a shared project */
 "acceptingShare" = "Accepting share...";
 
-"text" = "Text";
+"text" = "Текст";
 
-"date" = "Date";
+"date" = "Дата";
 
-"subtasks" = "Subtasks";
+"subtasks" = "Подзадачи";
 
 /* image, pdf, video, document, etc */
 "assets" = "Assets";
-"images" = "Images";
+"images" = "Изображения";
 
 /* tag for a task e.g. grocery, medicine, etc. */
-"tag" = "Tag";
-"tags" = "Tags";
+"tag" = "Тег";
+"tags" = "Теги";
 
 /* status of a task e.g. todo or done */
-"status" = "Status";
-"statuses" = "Statuses";
+"status" = "Статус";
+"statuses" = "Статусы";
 
-"project" = "Project";
-"projects" = "Projects";
+"project" = "Проект";
+"projects" = "Проекты";
 
 /* type of a task e.g. new feature or improvement */
-"taskType" = "Task Type";
-"tasktypes" = "Task Types";
+"taskType" = "Тип задачи";
+"tasktypes" = "Типы задач";
 
-"priority" = "Priority";
-"priorities" = "Priorities";
+"priority" = "Приоритет";
+"priorities" = "Приоритеты";
 
-"notSupported" = "Not Supported";
+"notSupported" = "Не поддерживается";
 
 /* e.g. Select Status, Select Tag */
-"selectType" = "Select %@";
+"selectType" = "Выбрать %@";
 
-"description" = "Description";
+"description" = "Описание";
 
-"taskFieldTextPlaceholder" = "Description, Link, etc";
-"taskFieldDatePlaceholder" = "Deadline, etc";
-"taskFieldSubtaskPlaceholder" = "Subtasks, Duplicate, etc";
-"taskFieldAssetPlaceholder" = "Images, Attachments, etc";
-"taskFieldProjectPlaceholder" = "Home, Work, Travel";
+"taskFieldTextPlaceholder" = "Описание, ссылка и т. д.";
+"taskFieldDatePlaceholder" = "Дедлайн и т. д.";
+"taskFieldSubtaskPlaceholder" = "Подзадачи, дубликаты и т. д.";
+"taskFieldAssetPlaceholder" = "Изображения, вложения и т. д.";
+"taskFieldProjectPlaceholder" = "Дом, Работа, Путешествия";
 
-"taskFieldTextDescription" = "A text field";
-"taskFieldDateDescription" = "For fields where you required a date input";
-"taskFieldSubtaskDescription" = "If you would like your tasks to have reference to subtasks";
+"taskFieldTextDescription" = "Текстовое поле";
+"taskFieldDateDescription" = "Для полей, в которых требуется ввести дату";
+"taskFieldSubtaskDescription" = "Если вы хотите, чтобы в ваших задачах были ссылки на подзадачи";
 "taskFieldAssetDescription" = "Allows your tasks to contain a collection of assets. Currently we support just images";
-"taskFieldTagDescription" = "Add tags to your tasks to help you understand and categorise them better";
+"taskFieldTagDescription" = "Добавьте теги к вашим задачам, чтобы помочь вам лучше понять и классифицировать их";
 "taskFieldStatusDescription" = "The project to which the task belongs to";
 "taskFieldProjectDescription" = "Not Supported, kindly update to use this";
 "taskFieldTypeDescription" = "Assign a priority to your tasks";
@@ -54,13 +54,13 @@
 "taskFieldNotSupportedDescription" = "This helps understand the completion of a task";
 
 /* e.g. All Statuses, All Tags */
-"allType" = "All %@";
+"allType" = "Все %@";
 
 /* e.g. Enter a new tag, Enter a new status */
 "enterNewType" = "Enter a new %@";
 
 /* e.g. Editing project, Editing Task */
-"editingType" = "Editing %@";
+"editingType" = "Изменение %@";
 
 /* e.g. New Tag, New Status */
 "newType" = "New %@";
@@ -74,49 +74,49 @@
 "purchaseScreenDevices" = "Available on iPhone, iPad and Mac (launching soon) at no additional cost";
 
 /* settings section headers */
-"general" = "General";
-"security" = "Security";
-"integrations" = "Integrations";
+"general" = "Основные";
+"security" = "Безопасность";
+"integrations" = "Интеграции";
 "sharing" = "Sharing";
 "reachUs" = "Reach us";
 "legal" = "Legal";
 
 "settingIntegrationFooter" = "Drop us a suggestion for integrations";
 
-"appIcons" = "App icons";
-"edit" = "Edit";
+"appIcons" = "Значек приложения";
+"edit" = "Редактирование";
 "iCloudSharing" = "iCloud sharing";
 "lockWith" = "Lock with %@";
 "notifcationSettings" = "Notification settings";
 "importNotes" = "Import notes";
 "importReminders" = "Import reminders";
 "modifyStatuses" = "Modify task statuses";
-"contactUs" = "Contact us";
+"contactUs" = "Связаться с нами";
 "twitter" = "Tweet us";
-"review" = "Review the app";
-"privacy" = "Privacy policy";
-"termsOfUse" = "Terms of use";
+"review" = "Оставить отзыв";
+"privacy" = "Политика конфиденциальности";
+"termsOfUse" = "Условия использования";
 "telegram" = "Telegram";
 
-"settingTitleIconsDescription" = "Change the app's icon";
-"settingTitleEditDescription" = "Edit your project details";
+"settingTitleIconsDescription" = "Изменить значок приложения";
+"settingTitleEditDescription" = "Изменить детали вашего проекта";
 "settingTitleSharingDescription" = "Invite and manage people to collaborate";
-"settingTitleBiometricDescription" = "Secure your project with %@";
-"settingTitleNotifcationDescription" = "Manage your notification settings";
-"settingTitleImportNotesDescription" = "Convert your notes into tasks";
-"settingTitleImportRemindersDescription" = "Import your pending reminders";
+"settingTitleBiometricDescription" = "Защитите свои проекты с помощью %@";
+"settingTitleNotifcationDescription" = "Управление настройками уведомлений";
+"settingTitleImportNotesDescription" = "Преобразовать свои заметки в задачи";
+"settingTitleImportRemindersDescription" = "Импорт отложенных напоминаний";
 "settingTitleStatusDescription" = "Add, reorder or modify statuses";
-"settingTitleContactDescription" = "Request a feature or ask us anything.";
-"settingTitleTwitterDescription" = "Share some love.";
-"settingTitleReviewDescription" = "Tell us what we are doing correct or wrong.";
-"settingTitlePrivacyDescription" = "We have nothing on you.";
-"settingTitleTermsDescription" = "It's very simple.";
-"settingTitleTelegramDescription" = "Discuss and share your feedback.";
+"settingTitleContactDescription" = "Запросить функцию или спросить нас что-нибудь.";
+"settingTitleTwitterDescription" = "Поделиться любовью.";
+"settingTitleReviewDescription" = "Скажите нам, что мы делаем правильно или неправильно.";
+"settingTitlePrivacyDescription" = "У нас на вас ничего нет..";
+"settingTitleTermsDescription" = "Всё очень просто.";
+"settingTitleTelegramDescription" = "Обсудить и поделиться своим мнением.";
 
-"createTask" = "Create a task";
-"editTask" = "Editing task";
+"createTask" = "Создать задачу";
+"editTask" = "Изменить задачу";
 
-"addField" = "Add Field";
+"addField" = "Добавить поле";
 
 "lock" = "Lock";
 "unlock" = "Unlock";
@@ -135,13 +135,13 @@
 "mediumPriority" = "Medium";
 "highPriority" = "High";
 
-"title" = "Title";
-"notes" = "Notes";
-"endDate" = "End date";
+"title" = "Название";
+"notes" = "Заметки";
+"endDate" = "Дата окончания";
 
 /* task status todo, done, complete, etc */
 "initialStatusTodo" = "Todo";
-"initialStatusDone" = "Done";
+"initialStatusDone" = "Выполнено";
 
 "unnamedProject" = "Unnamed Project";
 
@@ -154,14 +154,14 @@
 
 "importReminderScreen" = "Tap below to import your pending reminders 😃";
 "noReminders" = "No reminders found";
-"successfullyImported" = "Added!";
+"successfullyImported" = "Добавлено!";
 
 "search" = "Search";
 
 "confimation" = "Are you sure?";
 
 /* Mark as Todo, Mark as Done */
-"markAsNewStatus" = "Mark as %@";
+"markAsNewStatus" = "Отметить как %@";
 
 "creatingField" = "Enter a title for the field";
 "selectFieldInput" = "Select input field";
@@ -169,9 +169,9 @@
 "reorderingFields" = "Reordering fields";
 "cancelReordering" = "Cancel reordering";
 
-"chooseAnAction" = "Choose an action";
-"view" = "View";
-"cancel" = "Cancel";
+"chooseAnAction" = "Выберите действие";
+"view" = "Посмотреть";
+"cancel" = "Отмена";
 
 "deleteConfirmationMessage" = "Are your sure you want to delete %@?";
 
@@ -187,7 +187,7 @@
 "photoOptionCameraRoll" = "Camera roll";
 "photoOptionPhotoLibrary" = "Photo Library";
 
-"currentStatuses" = "Current Statuses";
+"currentStatuses" = "Текущее состояние";
 "statusFooterLabel" = "\nTap to edit existing statuses.\n\nYou can add new statuses by tapping + on the top right menu";
 
 "lockedProjectAuthentication" = "%@ is locked, kindly prove your identity to proceed";
@@ -196,19 +196,19 @@
 
 "sharedFeature" = "Only for shared projects";
 
-"plusUnlock" = "Unlock all features";
-"learnMore" = "Learn more";
+"plusUnlock" = "Разблокировать все функции";
+"learnMore" = "Узнать больше";
 
-"sampleTask0" = "e.g., Pick up flowers today at 3PM";
-"sampleTask1" = "e.g., Buy a cake next Friday";
-"sampleTask2" = "e.g., Call Alex at 12:30PM";
-"sampleTask3" = "e.g., Buy some fruits tomorrow";
-"sampleTask4" = "e.g., Speak to Kate tomorrow afternoon";
+"sampleTask0" = "Например, забрать цветы сегодня в 3 часа дня.";
+"sampleTask1" = "Например, купить торт в следующую пятницу.";
+"sampleTask2" = "Например, позвонить Алексу в 00:30.";
+"sampleTask3" = "Например, купить фрукты завтра.";
+"sampleTask4" = "Например, поговорить с Кейт завтра днем.";
 
 /* Set the date to 9:00PM */
-"set" = "Set";
+"set" = "Добавить";
 
-"onboardingText" = "Create tasks, share projects, customize your workflow and much more";
+"onboardingText" = "Создавайте задачи, делитесь проектами, настраивайте свой рабочий процесс и многое другое";
 
 "noteImport" = "Just paste and we will create the tasks for you 😃";
 "paste" = "Paste";
@@ -218,24 +218,24 @@
 
 "noTags" = "You have no tags created";
 
-"loading" = "Loading...";
+"loading" = "Загрузка...";
 
 "pendingTasks" = "%@ pending tasks";
 
 "or" = "or";
-"createProject" = "Create Project";
-"sampleProject" = "Try sample project";
-"projectCreatedTitle" = "😃 Yay, now add tasks in your project";
+"createProject" = "Создать проект";
+"sampleProject" = "Попробовать образец проекта";
+"projectCreatedTitle" = "😃 Ура, теперь добавляйте задачи в свой проект";
 
-"welcomeTitle" = "👋 Hello, let's get you started!";
-"welcomeSubtitle" = "Create your first project!\nProjects are a collection of tasks, like";
+"welcomeTitle" = "👋 Здравствуйте, давайте начнем!";
+"welcomeSubtitle" = "Создайте свой первый проект!\nПроекты - это набор задач, таких как";
 
-"home" = "Home";
-"work" = "Work";
-"awesomeProject" = "My Awesome Project";
+"home" = "Дом";
+"work" = "Работа";
+"awesomeProject" = "Мой потрясающий проект";
 
-"performActionSuchAs" = "You can perform actions such as";
-"longPressingText" = "by long pressing on your %@!";
+"performActionSuchAs" = "Вы можете выполнять такие действия, как";
+"longPressingText" = "при длительном нажатии на ваш %@!";
 
 "createTag" = "Create Tag";
 "createTagTitle" = "🏷 Looks like this project has no tags.";
