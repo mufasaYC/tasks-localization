@@ -1,261 +1,261 @@
 /* accepting a shared project */
-"acceptingShare" = "Accepting share...";
+"acceptingShare" = "Accepter le partage...";
 
-"text" = "Text";
+"text" = "Texte";
 
 "date" = "Date";
 
-"subtasks" = "Subtasks";
+"subtasks" = "Sous-tâches";
 
 /* image, pdf, video, document, etc */
-"assets" = "Assets";
+"assets" = "Pièces jointes";
 "images" = "Images";
 
 /* tag for a task e.g. grocery, medicine, etc. */
-"tag" = "Tag";
-"tags" = "Tags";
+"tag" = "Label";
+"tags" = "Labels";
 
 /* status of a task e.g. todo or done */
-"status" = "Status";
-"statuses" = "Statuses";
+"status" = "Statut";
+"statuses" = "Statuts";
 
-"project" = "Project";
-"projects" = "Projects";
+"project" = "Projet";
+"projects" = "Projets";
 
 /* type of a task e.g. new feature or improvement */
-"taskType" = "Task Type";
-"tasktypes" = "Task Types";
+"taskType" = "Type de Tâche";
+"tasktypes" = "Types de Tâches";
 
-"priority" = "Priority";
-"priorities" = "Priorities";
+"priority" = "Priorité";
+"priorities" = "Priorités";
 
-"notSupported" = "Not Supported";
+"notSupported" = "Non Supporté";
 
 /* e.g. Select Status, Select Tag */
-"selectType" = "Select %@";
+"selectType" = "Selectionnez un %@";
 
 "description" = "Description";
 
-"taskFieldTextPlaceholder" = "Description, Link, etc";
-"taskFieldDatePlaceholder" = "Deadline, etc";
-"taskFieldSubtaskPlaceholder" = "Subtasks, Duplicate, etc";
-"taskFieldAssetPlaceholder" = "Images, Attachments, etc";
-"taskFieldProjectPlaceholder" = "Home, Work, Travel";
+"taskFieldTextPlaceholder" = "Description, Lien, etc";
+"taskFieldDatePlaceholder" = "Date d'échéance, etc";
+"taskFieldSubtaskPlaceholder" = "Sous-tâches, Dupliqué, etc";
+"taskFieldAssetPlaceholder" = "Images, Pièces jointes, etc";
+"taskFieldProjectPlaceholder" = "Maison, Travail, Voyage";
 
-"taskFieldTextDescription" = "A text field";
-"taskFieldDateDescription" = "For fields where you required a date input";
-"taskFieldSubtaskDescription" = "If you would like your tasks to have reference to subtasks";
-"taskFieldAssetDescription" = "Allows your tasks to contain a collection of assets. Currently we support just images";
-"taskFieldTagDescription" = "Add tags to your tasks to help you understand and categorise them better";
-"taskFieldStatusDescription" = "The project to which the task belongs to";
-"taskFieldProjectDescription" = "Not Supported, kindly update to use this";
-"taskFieldTypeDescription" = "Assign a priority to your tasks";
-"taskFieldPriorityDescription" = "Choose and assign a type to your tasks";
-"taskFieldNotSupportedDescription" = "This helps understand the completion of a task";
+"taskFieldTextDescription" = "Un champ de texte";
+"taskFieldDateDescription" = "Pour un champ qui requière une date";
+"taskFieldSubtaskDescription" = "Si vous voulez que vos tâches aient des sous-tâches";
+"taskFieldAssetDescription" = "Permettre à vos tâches de contenir des pièces jointes. Pour l'instant nous ne supportons que les images";
+"taskFieldTagDescription" = "Ajoutez des labels à vos tâches pour vous aider à mieux les catégoriser";
+"taskFieldStatusDescription" = "Le projet auquel appartient la tâche";
+"taskFieldProjectDescription" = "Non Supporté, mettez à jour pour utiliser cette fonctionnalité";
+"taskFieldTypeDescription" = "Donnez une priorité à vos tâches";
+"taskFieldPriorityDescription" = "Choisissez un type pour vos tâches";
+"taskFieldNotSupportedDescription" = "Ceci aide à comprendre l'achèvement d'une tâche";
 
 /* e.g. All Statuses, All Tags */
-"allType" = "All %@";
+"allType" = "Tous les %@";
 
 /* e.g. Enter a new tag, Enter a new status */
-"enterNewType" = "Enter a new %@";
+"enterNewType" = "Entrez un nouveau %@";
 
 /* e.g. Editing project, Editing Task */
-"editingType" = "Editing %@";
+"editingType" = "Modifier %@";
 
 /* e.g. New Tag, New Status */
-"newType" = "New %@";
+"newType" = "Nouveau %@";
 
-"purchasePointsTitle" = "Some of the plus features include";
-"purchaseScreenSupport" = "Support indie development";
-"purchaseScreenShare" = "Share projects for collaboration";
-"purchaseScreenUnlimitedProjects" = "No limit on number of projects";
-"purchaseScreenSync" = "iCloud sync and backup";
-"purchaseScreenIcons" = "Choose from multiple app icons";
-"purchaseScreenDevices" = "Available on iPhone, iPad and Mac (launching soon) at no additional cost";
+"purchasePointsTitle" = "Les fonctionnalités Plus incluent";
+"purchaseScreenSupport" = "Supportez un développeur indépendant";
+"purchaseScreenShare" = "Partagez et collaborez sur vos projets";
+"purchaseScreenUnlimitedProjects" = "Pas de limite sur le nombre de projets";
+"purchaseScreenSync" = "Synchronisation et sauvegarde avec iCloud";
+"purchaseScreenIcons" = "Choisissez parmis plusieurs icones pour l'application";
+"purchaseScreenDevices" = "Applications iPhone, iPad et Mac (bientôt disponible) sans surcoût";
 
 /* settings section headers */
-"general" = "General";
-"security" = "Security";
-"integrations" = "Integrations";
-"sharing" = "Sharing";
-"reachUs" = "Reach us";
-"legal" = "Legal";
+"general" = "Général";
+"security" = "Sécurité";
+"integrations" = "Intégrations";
+"sharing" = "Partage";
+"reachUs" = "Nous Contacter";
+"legal" = "Mentions Légales";
 
-"settingIntegrationFooter" = "Drop us a suggestion for integrations";
+"settingIntegrationFooter" = "Suggérez une Intégration";
 
-"appIcons" = "App icons";
-"edit" = "Edit";
-"iCloudSharing" = "iCloud sharing";
-"lockWith" = "Lock with %@";
-"notifcationSettings" = "Notification settings";
-"importNotes" = "Import notes";
-"importReminders" = "Import reminders";
-"modifyStatuses" = "Modify task statuses";
-"contactUs" = "Contact us";
-"twitter" = "Tweet us";
-"review" = "Review the app";
-"privacy" = "Privacy policy";
-"termsOfUse" = "Terms of use";
+"appIcons" = "Icônes alternatives";
+"edit" = "Modifier";
+"iCloudSharing" = "Partage iCloud";
+"lockWith" = "Verrouiller avec %@";
+"notifcationSettings" = "Réglages des Notifications";
+"importNotes" = "Importer Notes";
+"importReminders" = "Importer Rappels";
+"modifyStatuses" = "Modifier les statuts des tâches";
+"contactUs" = "Nous Contacter";
+"twitter" = "Nous envoyer un Tweet";
+"review" = "Noter l'application";
+"privacy" = "Politique de Confidentialité";
+"termsOfUse" = "Conditions d'Utilisation";
 "telegram" = "Telegram";
 
-"settingTitleIconsDescription" = "Change the app's icon";
-"settingTitleEditDescription" = "Edit your project details";
-"settingTitleSharingDescription" = "Invite and manage people to collaborate";
-"settingTitleBiometricDescription" = "Secure your project with %@";
-"settingTitleNotifcationDescription" = "Manage your notification settings";
-"settingTitleImportNotesDescription" = "Convert your notes into tasks";
-"settingTitleImportRemindersDescription" = "Import your pending reminders";
-"settingTitleStatusDescription" = "Add, reorder or modify statuses";
-"settingTitleContactDescription" = "Request a feature or ask us anything.";
-"settingTitleTwitterDescription" = "Share some love.";
-"settingTitleReviewDescription" = "Tell us what we are doing correct or wrong.";
-"settingTitlePrivacyDescription" = "We have nothing on you.";
-"settingTitleTermsDescription" = "It's very simple.";
-"settingTitleTelegramDescription" = "Discuss and share your feedback.";
+"settingTitleIconsDescription" = "Changer l'icone de l'application";
+"settingTitleEditDescription" = "Modifier les détails de votre projet";
+"settingTitleSharingDescription" = "Inviter et gérer les collaborateurs";
+"settingTitleBiometricDescription" = "Sécuriser votre projet avec %@";
+"settingTitleNotifcationDescription" = "Régler vos paramètres de notification";
+"settingTitleImportNotesDescription" = "Convertir vos notes en tâches";
+"settingTitleImportRemindersDescription" = "Importer vos Rappels";
+"settingTitleStatusDescription" = "Ajouter, réarranger et modifier vos statuts";
+"settingTitleContactDescription" = "Suggérer une fonctionnalité ou nous demander autre chose.";
+"settingTitleTwitterDescription" = "Partager l'application sur Twitter";
+"settingTitleReviewDescription" = "Nous dire ce que l'on fait bien ou mal.";
+"settingTitlePrivacyDescription" = "On ne sait rien sur vous.";
+"settingTitleTermsDescription" = "C'est très simple.";
+"settingTitleTelegramDescription" = "Discuter et partager vos retours.";
 
-"createTask" = "Create a task";
-"editTask" = "Editing task";
+"createTask" = "Créer une tâche";
+"editTask" = "Modifier une tâche";
 
-"addField" = "Add Field";
+"addField" = "Ajouter un champs";
 
-"lock" = "Lock";
-"unlock" = "Unlock";
-"invite" = "Invite people";
-"delete" = "Delete";
-"settings" = "Settings";
+"lock" = "Vérrouiller";
+"unlock" = "Déverrouiller";
+"invite" = "Collaborer";
+"delete" = "Effacer";
+"settings" = "Réglages";
 
 "bug" = "Bug";
-"bugDescription" = "A problem or error.";
-"newFeature" = "New Feature";
-"newFeatureDescription" = "A new feature of the product.";
-"improvement" = "Improvement";
-"improvementDescription" = "An improvement or enhancement to an existing feature or task.";
+"bugDescription" = "Un problème ou une erreur.";
+"newFeature" = "Nouvelle Fonctionnalités";
+"newFeatureDescription" = "Une nouvelle fonctionnalité de l'application.";
+"improvement" = "Amélioration";
+"improvementDescription" = "Une amélioration apportée a une fonctionnalité existante.";
 
-"lowPriority" = "Low";
-"mediumPriority" = "Medium";
-"highPriority" = "High";
+"lowPriority" = "Basse";
+"mediumPriority" = "Moyenne";
+"highPriority" = "Haute";
 
-"title" = "Title";
+"title" = "Titre";
 "notes" = "Notes";
-"endDate" = "End date";
+"endDate" = "Date de fin";
 
 /* task status todo, done, complete, etc */
-"initialStatusTodo" = "Todo";
-"initialStatusDone" = "Done";
+"initialStatusTodo" = "A Faire";
+"initialStatusDone" = "Fait";
 
-"unnamedProject" = "Unnamed Project";
+"unnamedProject" = "Projet sans nom";
 
-"plusUser" = "You are a Tasks Plus user\nTake advantage of all the features";
-"yearly" = "Yearly";
-"lifetime" = "Lifetime";
-"purchasing" = "Purchasing Task+ %@";
-"restore" = "Restore Purchase";
-"restoring" = "Restoring your previous purchases";
+"plusUser" = "Vous êtes un utilisateur Tasks Plus\nUtilisez toutes les fonctionnalités";
+"yearly" = "Annuel";
+"lifetime" = "Perpétuel";
+"purchasing" = "Acheter Task+ %@";
+"restore" = "Restorer vos achats";
+"restoring" = "Restorer vos achats précédents";
 
-"importReminderScreen" = "Tap below to import your pending reminders 😃";
-"noReminders" = "No reminders found";
-"successfullyImported" = "Added!";
+"importReminderScreen" = "Tappez ci-dessous pour importer vos rappels 😃";
+"noReminders" = "Aucun rappel trouvé";
+"successfullyImported" = "Ajouté!";
 
-"search" = "Search";
+"search" = "Rechercher";
 
-"confimation" = "Are you sure?";
+"confimation" = "Êtes vous sûr ?";
 
 /* Mark as Todo, Mark as Done */
-"markAsNewStatus" = "Mark as %@";
+"markAsNewStatus" = "Marquer comme %@";
 
-"creatingField" = "Enter a title for the field";
-"selectFieldInput" = "Select input field";
-"reorderFields" = "Reorder fields";
-"reorderingFields" = "Reordering fields";
-"cancelReordering" = "Cancel reordering";
+"creatingField" = "Entrer un titre pour le champ";
+"selectFieldInput" = "Sélectionner le champ d'entrée";
+"reorderFields" = "Réorganiser les champs";
+"reorderingFields" = "Réorganisation des champs";
+"cancelReordering" = "Annuler la réorganisation";
 
-"chooseAnAction" = "Choose an action";
-"view" = "View";
-"cancel" = "Cancel";
+"chooseAnAction" = "Choisissez une action";
+"view" = "Voir";
+"cancel" = "Annuler";
 
-"deleteConfirmationMessage" = "Are your sure you want to delete %@?";
+"deleteConfirmationMessage" = "Êtes vous sûr de vouloir supprimer %@?";
 
-"createNewTag" = "create a new tag \"%@\"";
+"createNewTag" = "créer un nouveau label \"%@\"";
 
-"unnamedTag" = "Unnamed tag";
-"all" = "All";
-"today" = "Today";
-"thisWeek" = "This week";
-"late" = "Late";
+"unnamedTag" = "Label sans nom";
+"all" = "Tous";
+"today" = "Aujourd'hui";
+"thisWeek" = "Cette semaine";
+"late" = "En Retard";
 
-"photoOptionTakePhoto" = "Take photo";
-"photoOptionCameraRoll" = "Camera roll";
-"photoOptionPhotoLibrary" = "Photo Library";
+"photoOptionTakePhoto" = "Prendre une photo";
+"photoOptionCameraRoll" = "Pellicule";
+"photoOptionPhotoLibrary" = "Bibliothèque photo";
 
-"currentStatuses" = "Current Statuses";
-"statusFooterLabel" = "\nTap to edit existing statuses.\n\nYou can add new statuses by tapping + on the top right menu";
+"currentStatuses" = "Statuts actuels";
+"statusFooterLabel" = "\nTappez pour modifer vos status existants.\n\nVous pouvez ajouter de nouveaux statuts en tappant le + dans le menu en haut à droite";
 
-"lockedProjectAuthentication" = "%@ is locked, kindly prove your identity to proceed";
+"lockedProjectAuthentication" = "%@ est vérouillé, confirmez votre identité pour continuer";
 
-"back" = "Back";
+"back" = "Retour";
 
-"sharedFeature" = "Only for shared projects";
+"sharedFeature" = "Seulement pour les projets partagés";
 
-"plusUnlock" = "Unlock all features";
-"learnMore" = "Learn more";
+"plusUnlock" = "Débloquer toutes les fonctionnalités";
+"learnMore" = "En savoir plus";
 
-"sampleTask0" = "e.g., Pick up flowers today at 3PM";
-"sampleTask1" = "e.g., Buy a cake next Friday";
-"sampleTask2" = "e.g., Call Alex at 12:30PM";
-"sampleTask3" = "e.g., Buy some fruits tomorrow";
-"sampleTask4" = "e.g., Speak to Kate tomorrow afternoon";
+"sampleTask0" = "e.g., Récupérer les fleurs aujourd'hui à 15h";
+"sampleTask1" = "e.g., Acheter un gateau vendredi prochain";
+"sampleTask2" = "e.g., Appeler Alex à 12h30";
+"sampleTask3" = "e.g., Acheter des fruits demain";
+"sampleTask4" = "e.g., Parler à Kate demain après-midi";
 
 /* Set the date to 9:00PM */
-"set" = "Set";
+"set" = "Changer";
 
-"onboardingText" = "Create tasks, share projects, customize your workflow and much more";
+"onboardingText" = "Créez des tâches, partagez vos projets, personnalisez votre façon de travailler et bien plus";
 
-"noteImport" = "Just paste and we will create the tasks for you 😃";
-"paste" = "Paste";
-"nothingCopied" = "Nothing has been copied";
+"noteImport" = "Collez juste et nous allons créer les tâches pour vous 😃";
+"paste" = "Coller";
+"nothingCopied" = "Rien n'a été copié";
 
-"somethingWentWrong" = "Oops, something went wrong";
+"somethingWentWrong" = "Oups, il y a eu un problème";
 
-"noTags" = "You have no tags created";
+"noTags" = "Vous n'avez créé aucun label";
 
-"loading" = "Loading...";
+"loading" = "Chargement...";
 
-"pendingTasks" = "%@ pending tasks";
+"pendingTasks" = "%@ tâches en attente";
 
-"or" = "or";
-"createProject" = "Create Project";
-"sampleProject" = "Try sample project";
-"projectCreatedTitle" = "😃 Yay, now add tasks in your project";
+"or" = "ou";
+"createProject" = "Créer un Projet";
+"sampleProject" = "Essayer un Projet d'exemple";
+"projectCreatedTitle" = "😃 Super, maintenant ajoutez des tâches dans votre projet";
 
-"welcomeTitle" = "👋 Hello, let's get you started!";
-"welcomeSubtitle" = "Create your first project!\nProjects are a collection of tasks, like";
+"welcomeTitle" = "👋 Bienvenue, et c'est parti!";
+"welcomeSubtitle" = "Créez votre premier projet!\nLes projets sont une collection de tâches, par exemple";
 
-"home" = "Home";
-"work" = "Work";
-"awesomeProject" = "My Awesome Project";
+"home" = "Maison";
+"work" = "Travail";
+"awesomeProject" = "Mon Super Projet";
 
-"performActionSuchAs" = "You can perform actions such as";
-"longPressingText" = "by long pressing on your %@!";
+"performActionSuchAs" = "Vous pouvez faire des actions comme";
+"longPressingText" = "en appuyant longuement sur votre %@!";
 
-"createTag" = "Create Tag";
-"createTagTitle" = "🏷 Looks like this project has no tags.";
-"createTagSubtitle" = "Tags help you organise your tasks better. This helps with quick access and an easy overview. Some examples are";
-"and" = "and";
-"kitchen" = "kitchen";
-"kids" = "kids";
-"feature" = "feature";
-"ideas" = "ideas";
+"createTag" = "Créer un Label";
+"createTagTitle" = "🏷 On dirait que ce projet n'a pas de label.";
+"createTagSubtitle" = "Les Labels vous permettent de mieux organiser vos tâches. Ça vous aide à les retrouver plus facilement. Par exemple";
+"and" = "et";
+"kitchen" = "cuisine";
+"kids" = "enfants";
+"feature" = "fonctionnalité";
+"ideas" = "idées";
 
-"comingSoon" = "Coming soon";
-"comingSoonMessage" = "Support for %@ will be available soon!";
-"deleteTitle" = "This action cannot be undone";
+"comingSoon" = "Arrive prochainement";
+"comingSoonMessage" = "Le support de %@ va arriver bientôt!";
+"deleteTitle" = "Cette action ne peut pas être annulée";
 
-"popular" = "Popular";
+"popular" = "Populaire";
 
 /* e.g. 50% off */
-"sale" = "%@ off";
+"sale" = "%@ de réduction";
 
-"comments" = "Comments";
-"comment" = "Comment";
-"you" = "You";
-"user" = "User";
+"comments" = "Commentaires";
+"comment" = "Commentaire";
+"you" = "Vous";
+"user" = "Utilisateur";
