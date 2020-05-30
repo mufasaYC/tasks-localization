@@ -254,3 +254,8 @@
 
 /* e.g. 50% off */
 "sale" = "%@ off";
+
+"comments" = "Comments";
+"comment" = "Comment";
+"you" = "You";
+"user" = "User";
