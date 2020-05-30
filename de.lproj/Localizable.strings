@@ -98,52 +98,52 @@
 "termsOfUse" = "AGB";
 "telegram" = "Telegram";
 
-"settingTitleIconsDescription" = "Change the app's icon";
-"settingTitleEditDescription" = "Edit your project details";
-"settingTitleSharingDescription" = "Invite and manage people to collaborate";
-"settingTitleBiometricDescription" = "Secure your project with %@";
-"settingTitleNotifcationDescription" = "Manage your notification settings";
-"settingTitleImportNotesDescription" = "Convert your notes into tasks";
-"settingTitleImportRemindersDescription" = "Import your pending reminders";
-"settingTitleStatusDescription" = "Add, reorder or modify statuses";
-"settingTitleContactDescription" = "Request a feature or ask us anything.";
-"settingTitleTwitterDescription" = "Share some love.";
-"settingTitleReviewDescription" = "Tell us what we are doing correct or wrong.";
-"settingTitlePrivacyDescription" = "We have nothing on you.";
-"settingTitleTermsDescription" = "It's very simple.";
-"settingTitleTelegramDescription" = "Discuss and share your feedback.";
+"settingTitleIconsDescription" = "App Icon ändern";
+"settingTitleEditDescription" = "Projekt Eigenschaften ändern";
+"settingTitleSharingDescription" = "Andere zur Zusammenarbeit einladen und verwalten";
+"settingTitleBiometricDescription" = "Projekt sichern mir %@";
+"settingTitleNotifcationDescription" = "Benachrichtigungen verwalten";
+"settingTitleImportNotesDescription" = "Notizen in Tasks umwandeln";
+"settingTitleImportRemindersDescription" = "Offene Erinnerungen importieren";
+"settingTitleStatusDescription" = "Stati verwalten";
+"settingTitleContactDescription" = "Feature Anfrage oder sonstiges";
+"settingTitleTwitterDescription" = "Hab uns lieb.";
+"settingTitleReviewDescription" = "Sag uns was wir falsch machen.";
+"settingTitlePrivacyDescription" = "Wir haben nichts für dich.";
+"settingTitleTermsDescription" = "Es ist ganz einfach.";
+"settingTitleTelegramDescription" = "Diskussion und Feedback.";
 
-"createTask" = "Create a task";
-"editTask" = "Editing task";
+"createTask" = "Erstelle einen Task";
+"editTask" = "Bearbeite einen Task";
 
-"addField" = "Add Field";
+"addField" = "Feld hinzufügen";
 
-"lock" = "Lock";
-"unlock" = "Unlock";
-"invite" = "Invite people";
-"delete" = "Delete";
-"settings" = "Settings";
+"lock" = "Sichern";
+"unlock" = "Sicherung entfernen";
+"invite" = "Andere einladen";
+"delete" = "Löschen";
+"settings" = "Einstellungen";
 
-"bug" = "Bug";
-"bugDescription" = "A problem or error.";
-"newFeature" = "New Feature";
-"newFeatureDescription" = "A new feature of the product.";
-"improvement" = "Improvement";
-"improvementDescription" = "An improvement or enhancement to an existing feature or task.";
+"bug" = "Fehler";
+"bugDescription" = "Melde einen Fehler";
+"newFeature" = "Neues Feature";
+"newFeatureDescription" = "Ein neues Feature.";
+"improvement" = "Verbesserung";
+"improvementDescription" = "Eine Verbesserng zu einem Feature oder Task.";
 
-"lowPriority" = "Low";
-"mediumPriority" = "Medium";
-"highPriority" = "High";
+"lowPriority" = "Niedrig";
+"mediumPriority" = "Mittel";
+"highPriority" = "Hoch";
 
-"title" = "Title";
-"notes" = "Notes";
-"endDate" = "End date";
+"title" = "Titel";
+"notes" = "Notiz";
+"endDate" = "Fälligkeit";
 
 /* task status todo, done, complete, etc */
 "initialStatusTodo" = "Todo";
-"initialStatusDone" = "Done";
+"initialStatusDone" = "Erledigt";
 
-"unnamedProject" = "Unnamed Project";
+"unnamedProject" = "Unbenanntes Projekt";
 
 "plusUser" = "You are a Tasks Plus user\nTake advantage of all the features";
 "yearly" = "Yearly";
