@@ -145,23 +145,23 @@
 
 "unnamedProject" = "Unbenanntes Projekt";
 
-"plusUser" = "You are a Tasks Plus user\nTake advantage of all the features";
-"yearly" = "Yearly";
-"lifetime" = "Lifetime";
-"purchasing" = "Purchasing Task+ %@";
-"restore" = "Restore Purchase";
-"restoring" = "Restoring your previous purchases";
+"plusUser" = "Du bist ein Tasks Plus Benutzer\nNutze nun alle Features.";
+"yearly" = "Jährlich";
+"lifetime" = "Lebenslang";
+"purchasing" = "kaufen Task+ %@";
+"restore" = "Käufe wiederherstellen";
+"restoring" = "Deine Käufe werden wieder hergestellt";
 
-"importReminderScreen" = "Tap below to import your pending reminders 😃";
-"noReminders" = "No reminders found";
-"successfullyImported" = "Added!";
+"importReminderScreen" = "Tippe unten um deine Erinnerungen zu importieren  😃";
+"noReminders" = "Keine Erinnerungen gefunden";
+"successfullyImported" = "Hinzugefügt!";
 
-"search" = "Search";
+"search" = "Suche";
 
-"confimation" = "Are you sure?";
+"confimation" = "Bist du sicher?";
 
 /* Mark as Todo, Mark as Done */
-"markAsNewStatus" = "Mark as %@";
+"markAsNewStatus" = "Markieren als %@";
 
 "creatingField" = "Enter a title for the field";
 "selectFieldInput" = "Select input field";
