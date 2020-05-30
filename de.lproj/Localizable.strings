@@ -1,15 +1,15 @@
 /* accepting a shared project */
-"acceptingShare" = "Accepting share...";
+"acceptingShare" = "Freigabe annehmen...";
 
 "text" = "Text";
 
-"date" = "Date";
-
+"date" = "Datum";
+ 
 "subtasks" = "Subtasks";
 
 /* image, pdf, video, document, etc */
 "assets" = "Assets";
-"images" = "Images";
+"images" = "Bilder";
 
 /* tag for a task e.g. grocery, medicine, etc. */
 "tag" = "Tag";
@@ -17,34 +17,34 @@
 
 /* status of a task e.g. todo or done */
 "status" = "Status";
-"statuses" = "Statuses";
+"statuses" = "Stati";
 
-"project" = "Project";
-"projects" = "Projects";
+"project" = "Projekt ";
+"projects" = "Projekte";
 
 /* type of a task e.g. new feature or improvement */
 "taskType" = "Task Type";
-"tasktypes" = "Task Types";
+"tasktypes" = "Task Typen";
 
-"priority" = "Priority";
-"priorities" = "Priorities";
+"priority" = "Priorität";
+"priorities" = "Prioritäten";
 
-"notSupported" = "Not Supported";
+"notSupported" = "Nicht unterstützt";
 
 /* e.g. Select Status, Select Tag */
-"selectType" = "Select %@";
+"selectType" = "Wähle %@";
 
-"description" = "Description";
+"description" = "Beschreibung";
 
-"taskFieldTextPlaceholder" = "Description, Link, etc";
+"taskFieldTextPlaceholder" = "Beschreibung, Link, etc";
 "taskFieldDatePlaceholder" = "Deadline, etc";
-"taskFieldSubtaskPlaceholder" = "Subtasks, Duplicate, etc";
-"taskFieldAssetPlaceholder" = "Images, Attachments, etc";
-"taskFieldProjectPlaceholder" = "Home, Work, Travel";
+"taskFieldSubtaskPlaceholder" = "Subtasks, Doppel, etc";
+"taskFieldAssetPlaceholder" = "Bild, Anhang, etc";
+"taskFieldProjectPlaceholder" = "zuhause, Arbeit, Reise";
 
-"taskFieldTextDescription" = "A text field";
-"taskFieldDateDescription" = "For fields where you required a date input";
-"taskFieldSubtaskDescription" = "If you would like your tasks to have reference to subtasks";
+"taskFieldTextDescription" = "Ein Textfeld";
+"taskFieldDateDescription" = "Felder die ein Datum erwarten";
+"taskFieldSubtaskDescription" = "Wenn dein Task einen Subtask haben soll";
 "taskFieldAssetDescription" = "Allows your tasks to contain a collection of assets. Currently we support just images";
 "taskFieldTagDescription" = "Add tags to your tasks to help you understand and categorise them better";
 "taskFieldStatusDescription" = "The project to which the task belongs to";
