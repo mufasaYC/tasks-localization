@@ -152,7 +152,7 @@
 "restore" = "Restore Purchase";
 "restoring" = "Restoring your previous purchases";
 
-"importReminderScreen" = "It's as simple as the tap of a button 😃";
+"importReminderScreen" = "Tap below to import your pending reminders 😃";
 "noReminders" = "No reminders found";
 "successfullyImported" = "Added!";
 
@@ -210,7 +210,7 @@
 
 "onboardingText" = "Create tasks, share projects, customize your workflow and much more";
 
-"noteImport" = "Simply copy the text and we will draft the tasks for you 😃";
+"noteImport" = "Just paste and we will create the tasks for you 😃";
 "paste" = "Paste";
 "nothingCopied" = "Nothing has been copied";
 
