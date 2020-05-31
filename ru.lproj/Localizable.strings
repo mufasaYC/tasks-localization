@@ -255,10 +255,10 @@
 /* e.g. 50% off */
 "sale" = "%@ скидка ";
 
-"comments" = "Comments";
-"comment" = "Comment";
-"you" = "You";
-"user" = "User";
+"comments" = "Комментарии";
+"comment" = "Комментарий";
+"you" = "Вы";
+"user" = "Пользователь";
 
-"edited" = "Edited";
-"firstComment" = "Leave your first comment";
+"edited" = "Изменено";
+"firstComment" = "Оставьте свой первый комментарий";
