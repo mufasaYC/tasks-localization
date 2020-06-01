@@ -163,52 +163,52 @@
 /* Mark as Todo, Mark as Done */
 "markAsNewStatus" = "Markieren als %@";
 
-"creatingField" = "Enter a title for the field";
-"selectFieldInput" = "Select input field";
-"reorderFields" = "Reorder fields";
-"reorderingFields" = "Reordering fields";
-"cancelReordering" = "Cancel reordering";
+"creatingField" = "Gib dem Feld einen Titel";
+"selectFieldInput" = "Wähle ein Eingabefeld";
+"reorderFields" = "Felder umsortieren";
+"reorderingFields" = "Felder werden umsortiert";
+"cancelReordering" = "Umsortieren abbrechen";
 
-"chooseAnAction" = "Choose an action";
-"view" = "View";
-"cancel" = "Cancel";
+"chooseAnAction" = "Wähle eine Aktion";
+"view" = "Ansehen";
+"cancel" = "Abbrechen";
 
-"deleteConfirmationMessage" = "Are your sure you want to delete %@?";
+"deleteConfirmationMessage" = "Bist du dir sicher dass du %@ löschen willst?";
 
-"createNewTag" = "create a new tag \"%@\"";
+"createNewTag" = "Erstelle neune Tag \"%@\"";
 
-"unnamedTag" = "Unnamed tag";
-"all" = "All";
-"today" = "Today";
-"thisWeek" = "This week";
-"late" = "Late";
+"unnamedTag" = "Unbenannter Tag";
+"all" = "Alle";
+"today" = "Heute";
+"thisWeek" = "Diese Woche";
+"late" = "Vorbei";
 
-"photoOptionTakePhoto" = "Take photo";
-"photoOptionCameraRoll" = "Camera roll";
-"photoOptionPhotoLibrary" = "Photo Library";
+"photoOptionTakePhoto" = "Mache ein Foto";
+"photoOptionCameraRoll" = "Von der Kamere Rolle";
+"photoOptionPhotoLibrary" = "Foto Bibiliothek";
 
-"currentStatuses" = "Current Statuses";
-"statusFooterLabel" = "\nTap to edit existing statuses.\n\nYou can add new statuses by tapping + on the top right menu";
+"currentStatuses" = "Aktuelle Stati";
+"statusFooterLabel" = "\nTippe hier bestehende Stati zu verändern.\n\nDu kannst neue Stati durch einen tippen auf das + rechts oben im Menü hinzufügen.";
 
-"lockedProjectAuthentication" = "%@ is locked, kindly prove your identity to proceed";
+"lockedProjectAuthentication" = "%@ ist gesperrt, Bitte entsperren";
 
-"back" = "Back";
+"back" = "Zurück";
 
-"sharedFeature" = "Only for shared projects";
+"sharedFeature" = "Nur für geteilte Projekte";
 
-"plusUnlock" = "Unlock all features";
-"learnMore" = "Learn more";
+"plusUnlock" = "Alle Features entsperren";
+"learnMore" = "Siehe weiteres";
 
-"sampleTask0" = "e.g., Pick up flowers today at 3PM";
-"sampleTask1" = "e.g., Buy a cake next Friday";
-"sampleTask2" = "e.g., Call Alex at 12:30PM";
-"sampleTask3" = "e.g., Buy some fruits tomorrow";
-"sampleTask4" = "e.g., Speak to Kate tomorrow afternoon";
+"sampleTask0" = "e.g., Hole die Blumen um 15:00";
+"sampleTask1" = "e.g., Kaufe nächsten Freitag eine Kuchen";
+"sampleTask2" = "e.g., Ruf Alex an 12:30PM";
+"sampleTask3" = "e.g., Kaufe morgen Obst";
+"sampleTask4" = "e.g., Rede morgen nachmittag mit Karin";
 
 /* Set the date to 9:00PM */
-"set" = "Set";
+"set" = "Speichern";
 
-"onboardingText" = "Create tasks, share projects, customize your workflow and much more";
+"onboardingText" = "Erstelle Tasks, teile Projekte, adaptiere deine Arbeitsabläufe und vieles mehr";
 
 "noteImport" = "Just paste and we will create the tasks for you 😃";
 "paste" = "Paste";
