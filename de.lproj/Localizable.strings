@@ -1,10 +1,10 @@
 /* accepting a shared project */
-"acceptingShare" = "Akzeptiere Teilen ...";
+"acceptingShare" = "Freigabe annehmen...";
 
 "text" = "Text";
 
 "date" = "Datum";
-
+ 
 "subtasks" = "Unteraufgabe";
 
 /* image, pdf, video, document, etc */
@@ -19,12 +19,12 @@
 "status" = "Status";
 "statuses" = "Status";
 
-"project" = "Projekt";
+"project" = "Projekt ";
 "projects" = "Projekte";
 
 /* type of a task e.g. new feature or improvement */
-"taskType" = "Aufgabentyp";
-"tasktypes" = "Aufgabentypen";
+"taskType" = "Task Type";
+"tasktypes" = "Task Typen";
 
 "priority" = "Priorität";
 "priorities" = "Prioritäten";
@@ -43,15 +43,15 @@
 "taskFieldProjectPlaceholder" = "Zuhause, Arbeit, Reise";
 
 "taskFieldTextDescription" = "Ein Textfeld";
-"taskFieldDateDescription" = "Für Felder, wo eine Eingabe erforderlich ist";
-"taskFieldSubtaskDescription" = "Wenn du möchtest, dass deine Aufgaben Unteraufgaben enthalten";
-"taskFieldAssetDescription" = "Erlaube deinen Aufgaben, eine Sammlung von Medien zu enthalten. Zurzeit unterstützen wir nur Bilder";
-"taskFieldTagDescription" = "Füge deinen Aufgaben Tags hinzu, um dir dabei zu helfen, sie besser zu verstehen und zu kategorisieren";
-"taskFieldStatusDescription" = "Das Projekt zudem die Aufgabe gehört";
-"taskFieldProjectDescription" = "Nicht unterstützt, bitte aktualisiere um es zu nutzen";
-"taskFieldTypeDescription" = "Füge eine Priorität zu der Aufgabe hinzu";
-"taskFieldPriorityDescription" = "Wähle einen Typ für die Aufgabe aus und füge ihn hinzu";
-"taskFieldNotSupportedDescription" = "Dies hilft die Vervollständigung der Aufgabe besser zu verstehen";
+"taskFieldDateDescription" = "Felder die ein Datum erwarten";
+"taskFieldSubtaskDescription" = "Wenn dein Task einen Subtask haben soll";
+"taskFieldAssetDescription" = "Dein Task kann alle Medien enthalten. Zur Zeit unterstützen wir nur Bilder";
+"taskFieldTagDescription" = "Füge Tags zu deinen Tasks hinzu um dir dabei zu helfen, sie besser zu verstehen und zu kategorisieren";
+"taskFieldStatusDescription" = "Das Projekt zu diesem Task";
+"taskFieldProjectDescription" ="Dies wird nicht unterstützt, um es zu verweden bitte updaten";
+"taskFieldTypeDescription" = "Gib deinem Task eine Priorität";
+"taskFieldPriorityDescription" = "Wähle einen Type für deinen Task";
+"taskFieldNotSupportedDescription" = "Dies hilft den Task zu verstehen";
 
 /* e.g. All Statuses, All Tags */
 "allType" = "Alle %@";
@@ -67,7 +67,7 @@
 
 "purchasePointsTitle" = "Einige der Plus-Features enthalten";
 "purchaseScreenSupport" = "Unterstütze Indie-Entwickler";
-"purchaseScreenShare" = "Teile projekte für Zusammenarebit";
+"purchaseScreenShare" = "Teile Projekte um zusammen zu arbeiten";
 "purchaseScreenUnlimitedProjects" = "Kein Limit für die Anzahl der Projekte";
 "purchaseScreenSync" = "iCloud Synchronisation und Backup";
 "purchaseScreenIcons" = "Wähle aus verschiedenen App-Icons aus";
@@ -100,10 +100,10 @@
 
 "settingTitleIconsDescription" = "Ändere das App-Icon";
 "settingTitleEditDescription" = "Bearbeite deine Projektdetails";
-"settingTitleSharingDescription" = "Lade Personen für Kollaborationen ein und verwalte sie";
+"settingTitleSharingDescription" = "Andere zur Zusammenarbeit einladen und verwalten";
 "settingTitleBiometricDescription" = "Sichere dein Projekt mit %@";
-"settingTitleNotifcationDescription" = "verwalte deine Benachrichtigungseinstellungen";
-"settingTitleImportNotesDescription" = "Konvertiere deine Notizen in Aufgaben";
+"settingTitleNotifcationDescription" = "Verwalte deine Benachrichtigungseinstellungen";
+"settingTitleImportNotesDescription" = "Konvertiere deine Notizen in Tasks";
 "settingTitleImportRemindersDescription" = "Importiere deine laufenden Erinnerungen";
 "settingTitleStatusDescription" = "Füge Status hinzu, ordne sie um oder ändere sie";
 "settingTitleContactDescription" = "Frage eine Funktion an oder frage uns etwas.";
@@ -129,7 +129,7 @@
 "newFeature" = "Neue Funktion";
 "newFeatureDescription" = "Eine neue Funktion des Produktes.";
 "improvement" = "Verbesserung";
-"improvementDescription" = "Eine Verbesserung oder Erweiterung für eine bestehende Funktion oder eine bestehende Aufgabe.";
+"improvementDescription" = "Eine Verbesserung oder Erweiterung für eine bestehende Funktion oder einen bestehende Task.";
 
 "lowPriority" = "Niedrig";
 "mediumPriority" = "Normal";
@@ -137,22 +137,22 @@
 
 "title" = "Titel";
 "notes" = "Notizen";
-"endDate" = "Enddatum";
+"endDate" = "Fälligkeitsdatum";
 
 /* task status todo, done, complete, etc */
-"initialStatusTodo" = "Zu tun";
-"initialStatusDone" = "Fertig";
+"initialStatusTodo" = "Todo";
+"initialStatusDone" = "Erledigt";
 
 "unnamedProject" = "Unbenanntes Projekt";
 
-"plusUser" = "Du bist ein Task Plus-Benutzer\nNutzen sie alle Funktionen";
+"plusUser" = "Du bist ein Tasks Plus Benutzer\nNutze nun alle Funktionen";
 "yearly" = "Jährlich";
 "lifetime" = "Lebenslänglich";
-"purchasing" = "Kaufe Tasks+ %@";
+"purchasing" = "Kaufe Tasks Plus %@";
 "restore" = "Käufe wiederherstellen";
 "restoring" = "Wiederherstellung deines vorherigen Kaufes";
 
-"importReminderScreen" = "Tippe unten, um deine laufenden Erinnerungen zu importieren 😃";
+"importReminderScreen" = "Tippe unten, um deine laufenden Erinnerungen zu importieren �";
 "noReminders" = "Keine Erinnerungen gefunden";
 "successfullyImported" = "Hinzugefügt!";
 
@@ -177,11 +177,11 @@
 
 "createNewTag" = "Erstelle einen neuen Tag \"%@\"";
 
-"unnamedTag" = "Uunbenannter Tag";
+"unnamedTag" = "Unbenannter Tag";
 "all" = "Alle";
 "today" = "Heute";
 "thisWeek" = "Diese Woche";
-"late" = "Spät";
+"late" = "Vorbei";
 
 "photoOptionTakePhoto" = "Foto aufnehmen";
 "photoOptionCameraRoll" = "Kamera";
@@ -208,9 +208,9 @@
 /* Set the date to 9:00PM */
 "set" = "Einstellen";
 
-"onboardingText" = "CErstelle Aufgaben, teile Projekte, passe deinen Arbeitsablauf an und vieles mehr";
+"onboardingText" = "Erstelle Taks, teile Projekte, passe deinen Arbeitsablauf an und vieles mehr";
 
-"noteImport" = "Einfach einfügen und wir werden die Aufgabe für dich erstellen 😃";
+"noteImport" = "Einfach einfügen und wir werden die Aufgabe für dich erstellen �";;
 "paste" = "Einfügen";
 "nothingCopied" = "Nichts wurde kopiert";
 
@@ -225,9 +225,9 @@
 "or" = "oder";
 "createProject" = "Projekt erstellen";
 "sampleProject" = "Versuche ein Beispielprojekt";
-"projectCreatedTitle" = "😃 Hurrah, füge jetzt Aufgaben zu deinem Projekt hinzu";
+"projectCreatedTitle" = "� Hurrah, füge jetzt Aufgaben zu deinem Projekt hinzu";;
 
-"welcomeTitle" = "👋 Hallo, lass uns anfangen!";
+"welcomeTitle" = "� Hallo, lass uns anfangen!";;
 "welcomeSubtitle" = "Erstelle dein erstes Projekt!\nProjekte sind eine Sammlung von Aufgaben, wie";
 
 "home" = "Zuhause";
@@ -238,7 +238,7 @@
 "longPressingText" = "durch langes Drücken auf dein %@!";
 
 "createTag" = "Tag erstellen";
-"createTagTitle" = "🏷 Es scheint, als hätte dieses Projekt keine Tags.";
+"createTagTitle" = "� Es scheint, als hätte dieses Projekt keine Tags.";
 "createTagSubtitle" = "Tags helfen dir, deine Aufgaben besser zu organisieren. Dadurch hast du einen schnellen Zugang und eine einfache Übersicht. Einige Beispiele sind";
 "and" = "und";
 "kitchen" = "Küche";
@@ -250,7 +250,7 @@
 "comingSoonMessage" = "Unterstützung für %@ wird bald verfügbar sein!";
 "deleteTitle" = "Diese Aktion kann nicht rückgängig gemacht werden";
 
-"popular" = "Bermühmt";
+"popular" = "Beliebt";
 
 /* e.g. 50% off */
 "sale" = "%@ reduziert";
