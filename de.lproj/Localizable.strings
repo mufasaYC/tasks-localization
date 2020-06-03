@@ -1,4 +1,4 @@
-/* accepting a shared project */
+ach/* accepting a shared project */
 "acceptingShare" = "Freigabe annehmen...";
 
 "text" = "Text";
@@ -210,52 +210,52 @@
 
 "onboardingText" = "Erstelle Tasks, teile Projekte, adaptiere deine Arbeitsabläufe und vieles mehr";
 
-"noteImport" = "Just paste and we will create the tasks for you 😃";
-"paste" = "Paste";
-"nothingCopied" = "Nothing has been copied";
+"noteImport" = "einfach einfügen und wir erstellen einen Task für dich😃";
+"paste" = "Einfügen";
+"nothingCopied" = "Es wurde nichts kopiert";
 
-"somethingWentWrong" = "Oops, something went wrong";
+"somethingWentWrong" = "Uups, etwas ist falsch gelaufen";
 
-"noTags" = "You have no tags created";
+"noTags" = "Es wurden keine Tags erstellt";
 
-"loading" = "Loading...";
+"loading" = "Laden ...";
 
-"pendingTasks" = "%@ pending tasks";
+"pendingTasks" = "%@ offene Tasks";
 
 "or" = "or";
-"createProject" = "Create Project";
-"sampleProject" = "Try sample project";
-"projectCreatedTitle" = "😃 Yay, now add tasks in your project";
+"createProject" = "Projekt erstellen";
+"sampleProject" = "Pribiere ein Beispielprojekt";
+"projectCreatedTitle" = "😃 Gratuliere, jetzt füge Tasks zu deinem Projekt hinzu";
 
-"welcomeTitle" = "👋 Hello, let's get you started!";
-"welcomeSubtitle" = "Create your first project!\nProjects are a collection of tasks, like";
+"welcomeTitle" = "👋 Hallo, beginnen wir!";
+"welcomeSubtitle" = "Erstelle dein erstes Projekt!\nProjekte sind eine Sammlung von Tasks, wie";
 
-"home" = "Home";
-"work" = "Work";
-"awesomeProject" = "My Awesome Project";
+"home" = "Zuhause";
+"work" = "Arbeit";
+"awesomeProject" = "Mein tolles Projekt";
 
-"performActionSuchAs" = "You can perform actions such as";
-"longPressingText" = "by long pressing on your %@!";
+"performActionSuchAs" = "Du kannst folgende Aktionen ausführen";
+"longPressingText" = "indem du lange auf %@! tippst";
 
-"createTag" = "Create Tag";
-"createTagTitle" = "🏷 Looks like this project has no tags.";
-"createTagSubtitle" = "Tags help you organise your tasks better. This helps with quick access and an easy overview. Some examples are";
-"and" = "and";
-"kitchen" = "kitchen";
-"kids" = "kids";
-"feature" = "feature";
-"ideas" = "ideas";
+"createTag" = "Tag Erstellen";
+"createTagTitle" = "🏷 Sieht aus als ob dieses Projekt keine Tags hätte.";
+"createTagSubtitle" = "Tags helfen die deine Tasks besser zu organisieren. Sie ermöglichen schnellen Zugriff und eine bessere Übersicht. Beispiele wären";
+"and" = "und";
+"kitchen" = "Küche";
+"kids" = "Kinder";
+"feature" = "Feature";
+"ideas" = "Idee";
 
-"comingSoon" = "Coming soon";
-"comingSoonMessage" = "Support for %@ will be available soon!";
-"deleteTitle" = "This action cannot be undone";
+"comingSoon" = "Kommt bald";
+"comingSoonMessage" = "Unterstützung für %@ kommt bald!";
+"deleteTitle" = "Diese Aktion kann nicht wiederrufen werden";
 
-"popular" = "Popular";
+"popular" = "Beliebt";
 
 /* e.g. 50% off */
-"sale" = "%@ off";
+"sale" = "%@ reduziert";
 
-"comments" = "Comments";
-"comment" = "Comment";
-"you" = "You";
-"user" = "User";
+"comments" = "Kommentare";
+"comment" = "Kommentar";
+"you" = "Du";
+"user" = "Benutzer";
