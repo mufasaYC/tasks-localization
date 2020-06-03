@@ -109,7 +109,7 @@
 "settingTitleContactDescription" = "Ζητήστε νέο χαρακτιριστικό ή ρωτήστε μας οτιδήποτε.";
 "settingTitleTwitterDescription" = "Μοιραστείτε λίγη αγάπη.";
 "settingTitleReviewDescription" = "Πείτε μας τι κάνουμε σωστά ή λάθος.";
-"settingTitlePrivacyDescription" = "Δεν έχουμε κάτι αποθηκευμένο για εσάς.";
+"settingTitlePrivacyDescription" = "Δεν έχουμε αποθηκευμένα δεδομένα σχετικά με εσάς.";
 "settingTitleTermsDescription" = "Είναι πολύ απλό.";
 "settingTitleTelegramDescription" = "Συζητήστε και μοιραστείτε τα σχόλιά σας.";
 
@@ -152,7 +152,7 @@
 "restore" = "Επαναφορά Αγοράς";
 "restoring" = "Επαναφορά προηγούμενων αγορών";
 
-"importReminderScreen" = "Πατήστε κάτω για να εισάγετε της εκκρεμούσες υπομνήσεις σας 😃";
+"importReminderScreen" = "Πατήστε κάτω για να εισάγετε τις εκκρεμούσες υπομνήσεις σας 😃";
 "noReminders" = "Δεν βρέθηκαν υπομνήσεις";
 "successfullyImported" = "Προστέθηκε!";
 
@@ -194,7 +194,7 @@
 
 "back" = "Πίσω";
 
-"sharedFeature" = "Μόνο για μοιρασμένες εργασίες";
+"sharedFeature" = "Μόνο για μοιρασμένα έργα";
 
 "plusUnlock" = "Ξεκλειδώστε όλα τα χαρακτηριστικά";
 "learnMore" = "Μάθετε περισσότερα";
@@ -247,10 +247,10 @@
 "ideas" = "ιδέες";
 
 "comingSoon" = "Έρχεται σύντομα";
-"comingSoonMessage" = "Υποστήριξη για %@ θα είναι διαθέσιμο σύντομα!";
+"comingSoonMessage" = "Υποστήριξη για %@ θα είναι διαθέσιμη σύντομα!";
 "deleteTitle" = "Αυτή η πράξη δεν μπορεί να αναιρεθεί";
 
-"popular" = "Δημοφιλή";
+"popular" = "Δημοφιλής";
 
 /* e.g. 50% off */
 "sale" = "%@ έκπτωση";
