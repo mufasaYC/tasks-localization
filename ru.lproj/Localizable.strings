@@ -67,7 +67,7 @@
 
 "purchasePointsTitle" = "Some of the plus features include";
 "purchaseScreenSupport" = "Поддержка инди-разработки";
-"purchaseScreenShare" = "Share projects for collaboration";
+"purchaseScreenShare" = "Возможность делиться проектами для совместной работы";
 "purchaseScreenUnlimitedProjects" = "Нет ограничений на количество проектов";
 "purchaseScreenSync" = "Синхронизация и резервное копирование через iCloud";
 "purchaseScreenIcons" = "Выбор значка приложения";
@@ -81,18 +81,18 @@
 "reachUs" = "Связаться с нами";
 "legal" = "Юридическая информация";
 
-"settingIntegrationFooter" = "Drop us a suggestion for integrations";
+"settingIntegrationFooter" = "Напишите нам предложение по интеграции";
 
 "appIcons" = "Значек приложения";
 "edit" = "Редактирование";
 "iCloudSharing" = "iCloud sharing";
 "lockWith" = "Lock with %@";
-"notifcationSettings" = "Notification settings";
-"importNotes" = "Import notes";
-"importReminders" = "Import reminders";
+"notifcationSettings" = "Настройки уведомлений";
+"importNotes" = "Импорт заметок";
+"importReminders" = "Импорт напоминаний";
 "modifyStatuses" = "Изменить статусы задачи";
 "contactUs" = "Связаться с нами";
-"twitter" = "Tweet us";
+"twitter" = "Напишите нам в Твиттере";
 "review" = "Оставить отзыв";
 "privacy" = "Политика конфиденциальности";
 "termsOfUse" = "Условия использования";
@@ -190,7 +190,7 @@
 "currentStatuses" = "Текущее состояние";
 "statusFooterLabel" = "\nНажмите, чтобы изменить существующие статусы.\n\nВы можете добавить новые статусы, нажав + в правом верхнем меню";
 
-"lockedProjectAuthentication" = "%@ is locked, kindly prove your identity to proceed";
+"lockedProjectAuthentication" = "%@ заблокирован, пожалуйста, подтвердите свою личность, чтобы продолжить";
 
 "back" = "Назад";
 
@@ -255,7 +255,11 @@
 /* e.g. 50% off */
 "sale" = "%@ скидка ";
 
-"comments" = "Comments";
-"comment" = "Comment";
-"you" = "You";
-"user" = "User";
+"comments" = "Комментарии";
+"comment" = "Комментарий";
+"you" = "Вы";
+"user" = "Пользователь";
+
+"edited" = "Изменено";
+"firstComment" = "Оставьте свой первый комментарий";
+"unreadComments" = "Непрочитанные комментарии";

@@ -1,5 +1,5 @@
 /* accepting a shared project */
-"acceptingShare" = "Accepting share...";
+"acceptingShare" = "قبول الحصة...";
 
 "text" = "نص";
 
@@ -8,12 +8,12 @@
 "subtasks" = "مهام فرعية";
 
 /* image, pdf, video, document, etc */
-"assets" = "Assets";
+"assets" = "الأصول";
 "images" = "صور";
 
 /* tag for a task e.g. grocery, medicine, etc. */
-"tag" = "Tag";
-"tags" = "Tags";
+"tag" = "علامه";
+"tags" = "علامات";
 
 /* status of a task e.g. todo or done */
 "status" = "حالة";
@@ -29,7 +29,7 @@
 "priority" = "أولوية";
 "priorities" = "أولويات";
 
-"notSupported" = "غير مخدم";
+"notSupported" = "غير مدعوم";
 
 /* e.g. Select Status, Select Tag */
 "selectType" = "تحديد %@";
@@ -43,35 +43,35 @@
 "taskFieldProjectPlaceholder" = "منزل، عمل، سفر";
 
 "taskFieldTextDescription" = "حقل نصّي";
-"taskFieldDateDescription" = "For fields where you required a date input";
-"taskFieldSubtaskDescription" = "If you would like your tasks to have reference to subtasks";
-"taskFieldAssetDescription" = "Allows your tasks to contain a collection of assets. Currently we support just images";
-"taskFieldTagDescription" = "Add tags to your tasks to help you understand and categorise them better";
-"taskFieldStatusDescription" = "The project to which the task belongs to";
-"taskFieldProjectDescription" = "Not Supported, kindly update to use this";
-"taskFieldTypeDescription" = "Assign a priority to your tasks";
-"taskFieldPriorityDescription" = "Choose and assign a type to your tasks";
-"taskFieldNotSupportedDescription" = "This helps understand the completion of a task";
+"taskFieldDateDescription" = "للحقول حيث طلبت إدخال التاريخ";
+"taskFieldSubtaskDescription" = "إذا كنت ترغب في أن تشير مهامك إلى المهام الفرعية";
+"taskFieldAssetDescription" = "يسمح لمهامك بأن تحتوي على مجموعة من الأصول.  حاليا نحن ندعم الصور فقط";
+"taskFieldTagDescription" = "أضف علامات إلى مهامك لمساعدتك على فهمها وتصنيفها بشكل أفضل";
+"taskFieldStatusDescription" = "المشروع الذي تنتمي إليه المهمة";
+"taskFieldProjectDescription" = "غير مدعوم ، يرجى التحديث لاستخدام هذا";
+"taskFieldTypeDescription" = "قم بتعيين أولوية لمهامك";
+"taskFieldPriorityDescription" = "اختر نوعًا وقم بتعيينه لمهامك";
+"taskFieldNotSupportedDescription" = "يساعد هذا على فهم إكمال المهمة";
 
 /* e.g. All Statuses, All Tags */
-"allType" = "All %@";
+"allType" = "الكل %@";
 
 /* e.g. Enter a new tag, Enter a new status */
-"enterNewType" = "Enter a new %@";
+"enterNewType" = "أدخل جديدًا %@";
 
 /* e.g. Editing project, Editing Task */
-"editingType" = "Editing %@";
+"editingType" = "تعديل %@";
 
 /* e.g. New Tag, New Status */
 "newType" = "إنشاء %@";
 
 "purchasePointsTitle" = "بعض الميزات الإضافية تتضمن";
-"purchaseScreenSupport" = "Support indie development";
-"purchaseScreenShare" = "Share projects for collaboration";
+"purchaseScreenSupport" = "دعم التطوير المستقل";
+"purchaseScreenShare" = "مشاركة المشاريع للتعاون";
 "purchaseScreenUnlimitedProjects" = "لا حدود على عدد المشاريع";
 "purchaseScreenSync" = "المزامنة والنسخ الاحتياطية عبر iCloud";
 "purchaseScreenIcons" = "الاختيار بين عدة أيقونات للتطبيق";
-"purchaseScreenDevices" = "Available on iPhone, iPad and Mac (launching soon) at no additional cost";
+"purchaseScreenDevices" = "متوفر على أجهزة iPhone و iPad و Mac (سيتم إطلاقه قريبًا) بدون تكلفة إضافية";
 
 /* settings section headers */
 "general" = "عام";
@@ -81,40 +81,40 @@
 "reachUs" = "تواصل معنا";
 "legal" = "القانونية";
 
-"settingIntegrationFooter" = "Drop us a suggestion for integrations";
+"settingIntegrationFooter" = "أرسل لنا اقتراحًا لعمليات التكامل";
 
 "appIcons" = "أيقونات التطبيق";
 "edit" = "تعديل";
 "iCloudSharing" = "مشاركة عبر iCloud";
-"lockWith" = "Lock with %@";
+"lockWith" = "قفل مع %@";
 "notifcationSettings" = "إعدادات الإشعارات";
 "importNotes" = "استيراد الملاحظات";
-"importReminders" = "Import reminders";
-"modifyStatuses" = "Modify task statuses";
+"importReminders" = "استيراد تذكيرات";
+"modifyStatuses" = "تعديل حالات المهمة";
 "contactUs" = "اتصل بنا";
-"twitter" = "Tweet us";
-"review" = "Review the app";
-"privacy" = "Privacy policy";
-"termsOfUse" = "Terms of use";
-"telegram" = "Telegram";
+"twitter" = "غرد لنا";
+"review" = "راجع التطبيق";
+"privacy" = "سياسة الخصوصية";
+"termsOfUse" = "تعليمات الاستخدام";
+"telegram" = "برقية";
 
-"settingTitleIconsDescription" = "Change the app's icon";
-"settingTitleEditDescription" = "Edit your project details";
-"settingTitleSharingDescription" = "Invite and manage people to collaborate";
-"settingTitleBiometricDescription" = "Secure your project with %@";
-"settingTitleNotifcationDescription" = "Manage your notification settings";
-"settingTitleImportNotesDescription" = "Convert your notes into tasks";
-"settingTitleImportRemindersDescription" = "Import your pending reminders";
-"settingTitleStatusDescription" = "Add, reorder or modify statuses";
-"settingTitleContactDescription" = "Request a feature or ask us anything.";
-"settingTitleTwitterDescription" = "Share some love.";
-"settingTitleReviewDescription" = "Tell us what we are doing correct or wrong.";
-"settingTitlePrivacyDescription" = "We have nothing on you.";
-"settingTitleTermsDescription" = "It's very simple.";
-"settingTitleTelegramDescription" = "Discuss and share your feedback.";
+"settingTitleIconsDescription" = "قم بتغيير أيقونة التطبيق";
+"settingTitleEditDescription" = "تحرير تفاصيل المشروع الخاص بك";
+"settingTitleSharingDescription" = "دعوة وإدارة الأشخاص للتعاون";
+"settingTitleBiometricDescription" = "قم بتأمين مشروعك باستخدام %@";
+"settingTitleNotifcationDescription" = "إدارة إعدادات الإخطار الخاصة بك";
+"settingTitleImportNotesDescription" = "حول ملاحظاتك إلى مهام";
+"settingTitleImportRemindersDescription" = "استيراد التذكيرات المعلقة الخاصة بك";
+"settingTitleStatusDescription" = "إضافة أو إعادة ترتيب أو تعديل الحالات";
+"settingTitleContactDescription" = "اطلب ميزة أو اطلب منا أي شيء.";
+"settingTitleTwitterDescription" = "شارك بعض الحب.";
+"settingTitleReviewDescription" = "أخبرنا بما نقوم به بشكل صحيح أو خطأ.";
+"settingTitlePrivacyDescription" = "ليس لدينا شيء عليك.";
+"settingTitleTermsDescription" = "انه بسيط جدا.";
+"settingTitleTelegramDescription" = "ناقش وشارك ملاحظاتك.";
 
-"createTask" = "إنشاء مهمة";
-"editTask" = "Editing task";
+"createTask" = "إنشاء مهمه";
+"editTask" = "تعديل المهمه";
 
 "addField" = "إضافة حقل";
 
@@ -124,14 +124,14 @@
 "delete" = "حذف";
 "settings" = "إعدادات";
 
-"bug" = "Bug";
-"bugDescription" = "A problem or error.";
+"bug" = "خلل برمجي";
+"bugDescription" = "مشكلة أو خطأ.";
 "newFeature" = "ميزة جديدة";
 "newFeatureDescription" = "ميزة جديدة في المنتج";
 "improvement" = "تحسين";
 "improvementDescription" = "تحسين أو لميزة أو مهمة موجودة.";
 
-"lowPriority" = "دنيا";
+"lowPriority" = "منخفضة";
 "mediumPriority" = "متوسطة";
 "highPriority" = "عليا";
 
@@ -140,122 +140,126 @@
 "endDate" = "تاريخ الانتهاء";
 
 /* task status todo, done, complete, etc */
-"initialStatusTodo" = "Todo";
-"initialStatusDone" = "Done";
+"initialStatusTodo" = "لفعل";
+"initialStatusDone" = "تم";
 
-"unnamedProject" = "Unnamed Project";
+"unnamedProject" = "مشروع بدون اسم";
 
-"plusUser" = "You are a Tasks Plus user\nTake advantage of all the features";
+"plusUser" = "أنت من مستخدمي Tasks Plus\n الاستفادة من جميع الميزات";
 "yearly" = "سنوياً";
 "lifetime" = "مدى الحياة";
-"purchasing" = "Purchasing Task+ %@";
-"restore" = "Restore Purchase";
-"restoring" = "Restoring your previous purchases";
+"purchasing" = "مهمة الشراء + %@";
+"restore" = "استعادة شراء";
+"restoring" = "استعادة مشترياتك السابقة";
 
-"importReminderScreen" = "Tap below to import your pending reminders 😃";
-"noReminders" = "No reminders found";
-"successfullyImported" = "Added!";
+"importReminderScreen" = "😃 انقر أدناه لاستيراد تذكيراتك المعلقة ";
+"noReminders" = "لم يتم العثور على تذكيرات";
+"successfullyImported" = "تمت الإضافة!";
 
 "search" = "بحث";
 
 "confimation" = "هل أنت متأكد؟";
 
-/* Mark as Todo, Mark as Done */
-"markAsNewStatus" = "Mark as %@";
+/* وضع علامة "مهام" ، وضع علامة "تم" */
+"markAsNewStatus" = "وضع علامة %@";
 
-"creatingField" = "Enter a title for the field";
-"selectFieldInput" = "Select input field";
-"reorderFields" = "Reorder fields";
-"reorderingFields" = "Reordering fields";
-"cancelReordering" = "Cancel reordering";
+"creatingField" = "أدخل عنوانًا للحقل";
+"selectFieldInput" = "حدد حقل الإدخال";
+"reorderFields" = "إعادة ترتيب الحقول";
+"reorderingFields" = "إعادة ترتيب الحقول";
+"cancelReordering" = "إلغاء إعادة الترتيب";
 
-"chooseAnAction" = "Choose an action";
-"view" = "View";
-"cancel" = "Cancel";
+"chooseAnAction" = "اختيار إجراء";
+"view" = "رأي";
+"cancel" = "إلغاء ";
 
-"deleteConfirmationMessage" = "Are your sure you want to delete %@?";
+"deleteConfirmationMessage" = "هل أنت متأكد أنك تريد حذف %@?";
 
-"createNewTag" = "create a new tag \"%@\"";
+"createNewTag" = "إنشاء علامة جديدة\"%@\"";
 
-"unnamedTag" = "Unnamed tag";
+"unnamedTag" = "علامة بدون اسم";
 "all" = "الكل";
 "today" = "اليوم";
 "thisWeek" = "هذا الأسبوع";
 "late" = "متأخر";
 
-"photoOptionTakePhoto" = "Take photo";
-"photoOptionCameraRoll" = "Camera roll";
-"photoOptionPhotoLibrary" = "Photo Library";
+"photoOptionTakePhoto" = "تصوير";
+"photoOptionCameraRoll" = "فلم الة التصوير";
+"photoOptionPhotoLibrary" = "مكتبة الصور";
 
-"currentStatuses" = "Current Statuses";
-"statusFooterLabel" = "\nTap to edit existing statuses.\n\nYou can add new statuses by tapping + on the top right menu";
+"currentStatuses" = "الحالات الحالية";
+"statusFooterLabel" = "\n انقر لتحرير الحالات الموجودة.\n\n يمكنك إضافة حالات جديدة بالنقر فوق + في القائمة العلوية اليمنى";
 
-"lockedProjectAuthentication" = "%@ is locked, kindly prove your identity to proceed";
+"lockedProjectAuthentication" = "%@ مغلق ، يرجى إثبات هويتك للمضي قدما";
 
 "back" = "عودة";
 
-"sharedFeature" = "Only for shared projects";
+"sharedFeature" = "فقط للمشاريع المشتركة";
 
-"plusUnlock" = "Unlock all features";
-"learnMore" = "Learn more";
+"plusUnlock" = "افتح جميع الميزات";
+"learnMore" = "أعرف أكثر";
 
-"sampleTask0" = "e.g., Pick up flowers today at 3PM";
-"sampleTask1" = "e.g., Buy a cake next Friday";
-"sampleTask2" = "e.g., Call Alex at 12:30PM";
-"sampleTask3" = "e.g., Buy some fruits tomorrow";
-"sampleTask4" = "e.g., Speak to Kate tomorrow afternoon";
+"sampleTask0" = "مثال, إلتقط الزهور اليوم الساعة 3 مساءً";
+"sampleTask1" = "مثال, اشترِ كعكة يوم الجمعة القادمة";
+"sampleTask2" = "مثال, اتصل ب نور الساعه 12:30 مساءً";
+"sampleTask3" = "مثال, اشترِ بعض الفواكه غدًا";
+"sampleTask4" = "مثال, تحدث إلى وائل بعد ظهر الغد";
 
 /* Set the date to 9:00PM */
 "set" = "تعيين";
 
-"onboardingText" = "Create tasks, share projects, customize your workflow and much more";
+"onboardingText" = "يمكنك إنشاء المهام ومشاركة المشاريع وتخصيص سير العمل والمزيد";
 
-"noteImport" = "Just paste and we will create the tasks for you 😃";
+"noteImport" = "😃 ما عليك سوى اللصق وسننشئ المهام لك";
 "paste" = "لصق";
-"nothingCopied" = "Nothing has been copied";
+"nothingCopied" = "لم يتم نسخ أي شيء";
 
-"somethingWentWrong" = "Oops, something went wrong";
+"somethingWentWrong" = "عذرًا، شيء ما حدث بشكل خاطئ";
 
-"noTags" = "You have no tags created";
+"noTags" = "لا يوجد لديك علامات تم إنشاؤها";
 
 "loading" = "جار التحميل...";
 
-"pendingTasks" = "%@ pending tasks";
+"pendingTasks" = "%@ المهام المتبقيه";
 
 "or" = "أو";
-"createProject" = "Create Project";
-"sampleProject" = "Try sample project";
-"projectCreatedTitle" = "😃 Yay, now add tasks in your project";
+"createProject" = "إنشاء مشروع";
+"sampleProject" = "جرب مشروع عينة";
+"projectCreatedTitle" = "😃 حسنًا ، أضف الآن مهامًا إلى مشروعك";
 
-"welcomeTitle" = "👋 Hello, let's get you started!";
-"welcomeSubtitle" = "Create your first project!\nProjects are a collection of tasks, like";
+"welcomeTitle" = "👋 مرحبًا ، دعنا نبدأ!";
+"welcomeSubtitle" = "أنشئ مشروعك الأول!\n المشاريع عبارة عن مجموعة من المهام ، مثل";
 
 "home" = "منزل";
 "work" = "عمل";
 "awesomeProject" = "مشروعي الرائع";
 
-"performActionSuchAs" = "You can perform actions such as";
-"longPressingText" = "by long pressing on your %@!";
+"performActionSuchAs" = "يمكنك تنفيذ إجراءات مثل";
+"longPressingText" = "عن طريق الضغط لفترة طويلة على الخاص بك %@!";
 
-"createTag" = "Create Tag";
-"createTagTitle" = "🏷 Looks like this project has no tags.";
-"createTagSubtitle" = "Tags help you organise your tasks better. This helps with quick access and an easy overview. Some examples are";
+"createTag" = "إنشاء علامة";
+"createTagTitle" = "🏷 يبدو أن هذا المشروع لا يحتوي على علامات.";
+"createTagSubtitle" = "تساعدك العلامات على تنظيم مهامك بشكل أفضل.  هذا يساعد في الوصول السريع ونظرة عامة سهلة. بعض الأمثلة";
 "and" = "و";
 "kitchen" = "مطبخ";
 "kids" = "أطفال";
 "feature" = "ميزة";
-"ideas" = "أفكاز";
+"ideas" = "أفكار";
 
-"comingSoon" = "Coming soon";
-"comingSoonMessage" = "Support for %@ will be available soon!";
-"deleteTitle" = "This action cannot be undone";
+"comingSoon" = "قريبا";
+"comingSoonMessage" = "سيتوفر الدعم @% قريبًا!";
+"deleteTitle" = "لا يمكن التراجع عن هذا الإجراء";
 
 "popular" = "شعبي";
 
-/* e.g. 50% off */
-"sale" = "%@ off";
+/* e.g. 50% خصم */
+"sale" = "%@ خصم";
 
-"comments" = "Comments";
-"comment" = "Comment";
-"you" = "You";
-"user" = "User";
+"comments" = "تعليقات";
+"comment" = "اكتب تعليقًا";
+"you" = "أنت";
+"user" = "المستخدم";
+
+"edited" = "تم التعديل";
+"firstComment" = "اترك تعليقك الأول";
+"unreadComments" = "تعليقات غير مقروءة";

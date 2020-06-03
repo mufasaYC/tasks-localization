@@ -259,3 +259,7 @@
 "comment" = "Comment";
 "you" = "You";
 "user" = "User";
+
+"edited" = "Edited";
+"firstComment" = "Leave the first comment";
+"unreadComments" = "Unread comments";

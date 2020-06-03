@@ -255,7 +255,11 @@
 /* e.g. 50% off */
 "sale" = "%@ off";
 
-"comments" = "Comments";
-"comment" = "Comment";
-"you" = "You";
-"user" = "User";
+"comments" = "Commenti";
+"comment" = "Commento";
+"you" = "Voi";
+"user" = "Utente";
+
+"edited" = "Modificato";
+"firstComment" = "Lascia il primo commento";
+"unreadComments" = "Commenti non letti";
