@@ -145,10 +145,10 @@
 
 "unnamedProject" = "Unbenanntes Projekt";
 
-"plusUser" = "Du bist ein Task+ Benutzer\nNutze nun alle Funktionen";
+"plusUser" = "Du bist ein Tasks Plus Benutzer\nNutze nun alle Funktionen";
 "yearly" = "Jährlich";
 "lifetime" = "Lebenslänglich";
-"purchasing" = "Kaufe Task+ %@";
+"purchasing" = "Kaufe Tasks Plus %@";
 "restore" = "Käufe wiederherstellen";
 "restoring" = "Wiederherstellung deines vorherigen Kaufes";
 
@@ -238,7 +238,7 @@
 "longPressingText" = "durch langes Drücken auf dein %@!";
 
 "createTag" = "Tag erstellen";
-"createTagTitle" = "� Es scheint, als hätte dieses Projekt keine Tags.";;
+"createTagTitle" = "� Es scheint, als hätte dieses Projekt keine Tags.";
 "createTagSubtitle" = "Tags helfen dir, deine Aufgaben besser zu organisieren. Dadurch hast du einen schnellen Zugang und eine einfache Übersicht. Einige Beispiele sind";
 "and" = "und";
 "kitchen" = "Küche";
