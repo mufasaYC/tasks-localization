@@ -48,7 +48,7 @@ ach/* accepting a shared project */
 "taskFieldAssetDescription" = "Dein Task kann alle Assets enthalten. Zur Zeit unterstützen wir nur Bilder";
 "taskFieldTagDescription" = "Füge Tags zu deinen Tasks hinzu um sie besser zu oransieren zu verstehen";
 "taskFieldStatusDescription" = "Das Projekt zu diesem Task";
-"taskFieldProjectDescription" ="";
+"taskFieldProjectDescription" ="Dies wird nicht unterstützt, um es zu verweden bitte updaten";
 "taskFieldTypeDescription" = "Gib deinem Task eine Priorität";
 "taskFieldPriorityDescription" = "Wähle einen Type für deinen Task";
 "taskFieldNotSupportedDescription" = "Dies hilft den Task zu verstehen";
