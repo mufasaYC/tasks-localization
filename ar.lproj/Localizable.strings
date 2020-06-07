@@ -263,3 +263,45 @@
 "edited" = "تم التعديل";
 "firstComment" = "اترك تعليقك الأول";
 "unreadComments" = "تعليقات غير مقروءة";
+
+"okay" = "Okay";
+"modifyFields" = "Modify fields";
+"settingTitleFieldDescription" = "Add, reorder, delete or modify fields";
+
+/* fields are title, date, tag, etc */
+"currentFields" = "Current Fields";
+"fieldsFooterLabel" = "\nTap to edit existing fields.\n\nYou can add new fields by tapping + on the top right menu";
+"repeatTask" = "Repeat task";
+
+"daily" = "Daily";
+"weekly" = "Weekly";
+"monthly" = "Monthly";
+
+"days" = "Days";
+"weeks" = "Weeks";
+"months" = "Months";
+"years" = "Years";
+
+"day" = "Day";
+"week" = "Week";
+"month" = "Month";
+"year" = "Year";
+
+/* Event will occur every 2 days, Event will occur every day */
+"recurringReminderDayDescription" = "Event will occur every %@";
+
+/* Event will occur every week on Thursday, Event will occur every 2 weeks on Thurday and Friday. */
+"recurringReminderWeekDescription" = "Event will occur every %@ on %@";
+
+/* Event will occur every year in July, Event will occur every 2 years in July and December. */
+"recurringReminderYearDescription" = "Event will occur every %@ in %@";
+
+/* Frquency for a reminder to happen, example monthly, weekly or yearly */
+"frequency" = "Frequency";
+/* Int for a reminder to happen, 1, 2, 10, etc */
+"interval" = "Interval";
+
+"deleteTagTitle" = "%@ is using %@";
+"deleteTagMessage" = "Remove all tasks with status %@ before deleting it.";
+
+"deletingFieldMessage" =  "Deleting this would remove it from all the tasks in %@";
