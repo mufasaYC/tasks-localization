@@ -105,7 +105,7 @@
 "settingTitleNotifcationDescription" = "إدارة إعدادات الإخطار الخاصة بك";
 "settingTitleImportNotesDescription" = "حول ملاحظاتك إلى مهام";
 "settingTitleImportRemindersDescription" = "استيراد التذكيرات المعلقة الخاصة بك";
-"settingTitleStatusDescription" = "إضافة أو إعادة ترتيب أو تعديل الحالات";
+"settingTitleStatusDescription" = "إضافة أو إعادة ترتيب أو حذف أو تعديل الحالات";
 "settingTitleContactDescription" = "اطلب ميزة أو اطلب منا أي شيء.";
 "settingTitleTwitterDescription" = "شارك بعض الحب.";
 "settingTitleReviewDescription" = "أخبرنا بما نقوم به بشكل صحيح أو خطأ.";
@@ -116,7 +116,7 @@
 "createTask" = "إنشاء مهمه";
 "editTask" = "تعديل المهمه";
 
-"addField" = "إضافة حقل";
+"addField" = "تخصيص الحقول";
 
 "lock" = "قفل";
 "unlock" = "فك القفل";
@@ -264,44 +264,44 @@
 "firstComment" = "اترك تعليقك الأول";
 "unreadComments" = "تعليقات غير مقروءة";
 
-"okay" = "Okay";
-"modifyFields" = "Modify fields";
-"settingTitleFieldDescription" = "Add, reorder, delete or modify fields";
+"okay" = "حسنًا";
+"modifyFields" = "تعديل الحقول";
+"settingTitleFieldDescription" = "إضافة أو إعادة ترتيب أو حذف أو تعديل الحقول";
 
 /* fields are title, date, tag, etc */
-"currentFields" = "Current Fields";
-"fieldsFooterLabel" = "\nTap to edit existing fields.\n\nYou can add new fields by tapping + on the top right menu";
-"repeatTask" = "Repeat task";
+"currentFields" = "الحقول الحالية";
+"fieldsFooterLabel" = "\n انقر لتحرير الحقول الموجودة.\n\n يمكنك إضافة حقول جديدة بالنقر فوق + في القائمة العلوية اليمنى";
+"repeatTask" = "كرر المهمة";
 
-"daily" = "Daily";
-"weekly" = "Weekly";
-"monthly" = "Monthly";
+"daily" = "يوميًا";
+"weekly" = "اسبوعياً";
+"monthly" = "شهرياً";
 
-"days" = "Days";
-"weeks" = "Weeks";
-"months" = "Months";
-"years" = "Years";
+"days" = "أيام";
+"weeks" = "أسابيع";
+"months" = "ألشهور";
+"years" = "ألسنوات";
 
-"day" = "Day";
-"week" = "Week";
-"month" = "Month";
-"year" = "Year";
+"day" = "يوم";
+"week" = "أسبوع";
+"month" = "شهر";
+"year" = "سنه";
 
 /* Event will occur every 2 days, Event will occur every day */
-"recurringReminderDayDescription" = "Event will occur every %@";
+"recurringReminderDayDescription" = "سيحدث الحدث كل %@ ";
 
-/* Event will occur every week on Thursday, Event will occur every 2 weeks on Thurday and Friday. */
-"recurringReminderWeekDescription" = "Event will occur every %@ on %@";
+/* Event will occur every week on Thursday, Event will occur every 2 weeks on Thursday and Friday. */
+"recurringReminderWeekDescription" = "سيحدث الحدث كل %@ on %@ ";
 
 /* Event will occur every year in July, Event will occur every 2 years in July and December. */
-"recurringReminderYearDescription" = "Event will occur every %@ in %@";
+"recurringReminderYearDescription" = "سيحدث الحدث كل %@ in %@ ";
 
-/* Frquency for a reminder to happen, example monthly, weekly or yearly */
-"frequency" = "Frequency";
+/* Frequency for a reminder to happen, example monthly, weekly or yearly */
+"frequency" = "تكرر";
 /* Int for a reminder to happen, 1, 2, 10, etc */
-"interval" = "Interval";
+"interval" = "فترة";
 
-"deleteTagTitle" = "%@ is using %@";
-"deleteTagMessage" = "Remove all tasks with status %@ before deleting it.";
+"deleteTagTitle" = "%@ يستخدم %@";
+"deleteTagMessage" = "إزالة كافة المهام بالحالة %@ قبل حذفها.";
 
-"deletingFieldMessage" =  "Deleting this would remove it from all the tasks in %@";
+"deletingFieldMessage" =  "سيؤدي حذف هذا إلى إزالته من جميع المهام الموجودة فيه %@";
