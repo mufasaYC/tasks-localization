@@ -105,7 +105,7 @@
 "settingTitleNotifcationDescription" = "Manage your notification settings";
 "settingTitleImportNotesDescription" = "Convert your notes into tasks";
 "settingTitleImportRemindersDescription" = "Import your pending reminders";
-"settingTitleStatusDescription" = "Add, reorder or modify statuses";
+"settingTitleStatusDescription" = "Add, reorder, delete or modify statuses";
 "settingTitleContactDescription" = "Request a feature or ask us anything.";
 "settingTitleTwitterDescription" = "Share some love.";
 "settingTitleReviewDescription" = "Tell us what we are doing correct or wrong.";
@@ -116,7 +116,7 @@
 "createTask" = "Create a task";
 "editTask" = "Editing task";
 
-"addField" = "Add Field";
+"addField" = "Customize fields";
 
 "lock" = "Lock";
 "unlock" = "Unlock";
