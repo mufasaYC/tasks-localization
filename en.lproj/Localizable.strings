@@ -290,13 +290,13 @@
 /* Event will occur every 2 days, Event will occur every day */
 "recurringReminderDayDescription" = "Event will occur every %@";
 
-/* Event will occur every week on Thursday, Event will occur every 2 weeks on Thurday and Friday. */
+/* Event will occur every week on Thursday, Event will occur every 2 weeks on Thursday and Friday. */
 "recurringReminderWeekDescription" = "Event will occur every %@ on %@";
 
 /* Event will occur every year in July, Event will occur every 2 years in July and December. */
 "recurringReminderYearDescription" = "Event will occur every %@ in %@";
 
-/* Frquency for a reminder to happen, example monthly, weekly or yearly */
+/* Frequency for a reminder to happen, example monthly, weekly or yearly */
 "frequency" = "Frequency";
 /* Int for a reminder to happen, 1, 2, 10, etc */
 "interval" = "Interval";
@@ -305,3 +305,5 @@
 "deleteTagMessage" = "Remove all tasks with status %@ before deleting it.";
 
 "deletingFieldMessage" =  "Deleting this would remove it from all the tasks in %@";
+
+"custom" = "Custom";
