@@ -305,3 +305,5 @@
 "deleteTagMessage" = "Remove all tasks with status %@ before deleting it.";
 
 "deletingFieldMessage" =  "Deleting this would remove it from all the tasks in %@";
+
+"custom" = "Custom";
