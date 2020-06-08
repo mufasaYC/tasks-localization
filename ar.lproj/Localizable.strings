@@ -1,5 +1,5 @@
 /* accepting a shared project */
-"acceptingShare" = "قبول الحصة...";
+"acceptingShare" = "قبول المشاركه...";
 
 "text" = "نص";
 
@@ -27,7 +27,7 @@
 "tasktypes" = "أنواع المهمة";
 
 "priority" = "أولوية";
-"priorities" = "أولويات";
+"priorities" = "حسب الأولوية";
 
 "notSupported" = "غير مدعوم";
 
@@ -57,7 +57,7 @@
 "allType" = "الكل %@";
 
 /* e.g. Enter a new tag, Enter a new status */
-"enterNewType" = "أدخل جديدًا %@";
+"enterNewType" = "أدخل %@ جديد";
 
 /* e.g. Editing project, Editing Task */
 "editingType" = "تعديل %@";
@@ -173,7 +173,7 @@
 "view" = "رأي";
 "cancel" = "إلغاء ";
 
-"deleteConfirmationMessage" = "هل أنت متأكد أنك تريد حذف %@?";
+"deleteConfirmationMessage" = "هل أنت متأكد أنك تريد حذف %@؟";
 
 "createNewTag" = "إنشاء علامة جديدة\"%@\"";
 
@@ -202,8 +202,8 @@
 "sampleTask0" = "مثال, إلتقط الزهور اليوم الساعة 3 مساءً";
 "sampleTask1" = "مثال, اشترِ كعكة يوم الجمعة القادمة";
 "sampleTask2" = "مثال, اتصل ب نور الساعه 12:30 مساءً";
-"sampleTask3" = "مثال, اشترِ بعض الفواكه غدًا";
-"sampleTask4" = "مثال, تحدث إلى وائل بعد ظهر الغد";
+"sampleTask3" = "مثال, اشترِ بعض الفواكه غداً";
+"sampleTask4" = "مثال, تحدث إلى وائل بعد ظهر غداً";
 
 /* Set the date to 9:00PM */
 "set" = "تعيين";
@@ -235,7 +235,7 @@
 "awesomeProject" = "مشروعي الرائع";
 
 "performActionSuchAs" = "يمكنك تنفيذ إجراءات مثل";
-"longPressingText" = "عن طريق الضغط لفترة طويلة على الخاص بك %@!";
+"longPressingText" = "عن طريق الضغط لفترة طويلة على %@ الخاص بك";
 
 "createTag" = "إنشاء علامة";
 "createTagTitle" = "🏷 يبدو أن هذا المشروع لا يحتوي على علامات.";
@@ -247,7 +247,7 @@
 "ideas" = "أفكار";
 
 "comingSoon" = "قريبا";
-"comingSoonMessage" = "سيتوفر الدعم @% قريبًا!";
+"comingSoonMessage" = "!سيتوفر الدعم %@ قريبًا";
 "deleteTitle" = "لا يمكن التراجع عن هذا الإجراء";
 
 "popular" = "شعبي";
@@ -288,13 +288,13 @@
 "year" = "سنه";
 
 /* Event will occur every 2 days, Event will occur every day */
-"recurringReminderDayDescription" = "سيحدث الحدث كل %@ ";
+"recurringReminderDayDescription" = "يتكرر الحدث كل %@";
 
 /* Event will occur every week on Thursday, Event will occur every 2 weeks on Thursday and Friday. */
-"recurringReminderWeekDescription" = "سيحدث الحدث كل %@ on %@ ";
+"recurringReminderWeekDescription" = "يتكرر الحدث كل %@ في يوم %@";
 
 /* Event will occur every year in July, Event will occur every 2 years in July and December. */
-"recurringReminderYearDescription" = "سيحدث الحدث كل %@ in %@ ";
+"recurringReminderYearDescription" = "يتكرر الحدث كل %@ في %@";
 
 /* Frequency for a reminder to happen, example monthly, weekly or yearly */
 "frequency" = "تكرر";
@@ -305,3 +305,5 @@
 "deleteTagMessage" = "إزالة كافة المهام بالحالة %@ قبل حذفها.";
 
 "deletingFieldMessage" =  "سيؤدي حذف هذا إلى إزالته من جميع المهام الموجودة فيه %@";
+
+"custom" = "خصص";
