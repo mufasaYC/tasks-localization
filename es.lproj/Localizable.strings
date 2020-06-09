@@ -117,7 +117,7 @@
 "createTask" = "Crea una tarea";
 "editTask" = "Editando tarea";
 
-"addField" = "Añade un campo";
+"addField" = "Gestiona los campos";
 
 "lock" = "Bloquea";
 "unlock" = "Desbloquea";
@@ -265,45 +265,45 @@
 "firstComment" = "Deja tu primer comentario";
 
 "okay" = "Okay";
-"modifyFields" = "Modify fields";
-"settingTitleFieldDescription" = "Add, reorder, delete or modify fields";
+"modifyFields" = "Modificar campos";
+"settingTitleFieldDescription" = "Añade, reordena, borra o modifica los campos";
 
 /* fields are title, date, tag, etc */
-"currentFields" = "Current Fields";
-"fieldsFooterLabel" = "\nTap to edit existing fields.\n\nYou can add new fields by tapping + on the top right menu";
-"repeatTask" = "Repeat task";
+"currentFields" = "Campos actuales";
+"fieldsFooterLabel" = "\Pulsa para editar los campos existentes.\n\nPuedes añadir nuevos campos pulsando + en el menú arriba a la derecha";
+"repeatTask" = "Repetir tarea";
 
-"daily" = "Daily";
-"weekly" = "Weekly";
-"monthly" = "Monthly";
+"daily" = "Diario";
+"weekly" = "Semanal";
+"monthly" = "Mensual";
 
-"days" = "Days";
-"weeks" = "Weeks";
-"months" = "Months";
-"years" = "Years";
+"days" = "Días";
+"weeks" = "Semanas";
+"months" = "Meses";
+"years" = "Años";
 
-"day" = "Day";
-"week" = "Week";
-"month" = "Month";
-"year" = "Year";
+"day" = "Día";
+"week" = "Semana";
+"month" = "Mes";
+"year" = "Año";
 
 /* Event will occur every 2 days, Event will occur every day */
-"recurringReminderDayDescription" = "Event will occur every %@";
+"recurringReminderDayDescription" = "El evento ocurrirá cada %@";
 
-/* Event will occur every week on Thursday, Event will occur every 2 weeks on Thurday and Friday. */
-"recurringReminderWeekDescription" = "Event will occur every %@ on %@";
+/* Event will occur every week on Thursday, Event will occur every 2 weeks on Thursday and Friday. */
+"recurringReminderWeekDescription" = "El evento ocurrirá todas %@ en %@";
 
 /* Event will occur every year in July, Event will occur every 2 years in July and December. */
-"recurringReminderYearDescription" = "Event will occur every %@ in %@";
+"recurringReminderYearDescription" = "El evento ocurrirá todos los %@ en %@";
 
-/* Frquency for a reminder to happen, example monthly, weekly or yearly */
-"frequency" = "Frequency";
+/* Frequency for a reminder to happen, example monthly, weekly or yearly */
+"frequency" = "Frecuencia";
 /* Int for a reminder to happen, 1, 2, 10, etc */
-"interval" = "Interval";
+"interval" = "Intervalo";
 
-"deleteTagTitle" = "%@ is using %@";
-"deleteTagMessage" = "Remove all tasks with status %@ before deleting it.";
+"deleteTagTitle" = "%@ está usando %@";
+"deleteTagMessage" = "Eliminar todas las tareas con el estado %@ antes de borrarlo.";
 
-"deletingFieldMessage" =  "Deleting this would remove it from all the tasks in %@";
+"deletingFieldMessage" = "Borrar esto eliminaría todas las tareas en %@";
 
-"custom" = "Custom";
+"custom" = "Personalizado";

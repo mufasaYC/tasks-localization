@@ -116,7 +116,7 @@
 "createTask" = "Create a task";
 "editTask" = "Editing task";
 
-"addField" = "Customize fields";
+"addField" = "Manage fields";
 
 "lock" = "Lock";
 "unlock" = "Unlock";
@@ -137,7 +137,7 @@
 
 "title" = "Title";
 "notes" = "Notes";
-"endDate" = "End date";
+"endDate" = "Due";
 
 /* task status todo, done, complete, etc */
 "initialStatusTodo" = "Todo";
