@@ -23,8 +23,8 @@
 "projects" = "Projekte";
 
 /* type of a task e.g. new feature or improvement */
-"taskType" = "Task Type";
-"tasktypes" = "Task Typen";
+"taskType" = "Tasktyp";
+"tasktypes" = "Tasktypen";
 
 "priority" = "Priorität";
 "priorities" = "Prioritäten";
@@ -225,7 +225,7 @@
 "or" = "oder";
 "createProject" = "Projekt erstellen";
 "sampleProject" = "Versuche ein Beispielprojekt";
-"projectCreatedTitle" = "� Hurrah, füge jetzt Aufgaben zu deinem Projekt hinzu";;
+"projectCreatedTitle" = "� Hurra, füge jetzt Aufgaben zu deinem Projekt hinzu";;
 
 "welcomeTitle" = "� Hallo, lass uns anfangen!";;
 "welcomeSubtitle" = "Erstelle dein erstes Projekt!\nProjekte sind eine Sammlung von Aufgaben, wie";
@@ -265,45 +265,45 @@
 "unreadComments" = "Ungelesene Kommentare";
 
 "okay" = "Okay";
-"modifyFields" = "Modify fields";
-"settingTitleFieldDescription" = "Add, reorder, delete or modify fields";
+"modifyFields" = "Felder ändern";
+"settingTitleFieldDescription" = "Füge Felder hinzu, ordne sie um oder lösche sie";
 
 /* fields are title, date, tag, etc */
-"currentFields" = "Current Fields";
-"fieldsFooterLabel" = "\nTap to edit existing fields.\n\nYou can add new fields by tapping + on the top right menu";
-"repeatTask" = "Repeat task";
+"currentFields" = "Aktuelle Felder";
+"fieldsFooterLabel" = "\nTippe um existierende Felder zu bearbeiten.\n\n\Du kannst neue Felder hinzufügen, indem du auf das + Menü rechts oben tippst.";
+"repeatTask" = "Aufgabe wiederholen";
 
-"daily" = "Daily";
-"weekly" = "Weekly";
-"monthly" = "Monthly";
+"daily" = "Täglich";
+"weekly" = "Wöchentlich";
+"monthly" = "Monatlich";
 
-"days" = "Days";
-"weeks" = "Weeks";
-"months" = "Months";
-"years" = "Years";
+"days" = "Tage";
+"weeks" = "Wochen";
+"months" = "Monate";
+"years" = "Jahre";
 
-"day" = "Day";
-"week" = "Week";
-"month" = "Month";
-"year" = "Year";
+"day" = "Tag";
+"week" = "Woche";
+"month" = "Monat";
+"year" = "Jahr";
 
 /* Event will occur every 2 days, Event will occur every day */
-"recurringReminderDayDescription" = "Event will occur every %@";
+"recurringReminderDayDescription" = "Das Ereignis wird jeden %@ wiederholt.";
 
 /* Event will occur every week on Thursday, Event will occur every 2 weeks on Thurday and Friday. */
-"recurringReminderWeekDescription" = "Event will occur every %@ on %@";
+"recurringReminderWeekDescription" = "Ereignis wird alle %@ am %@ wiederholt.";
 
 /* Event will occur every year in July, Event will occur every 2 years in July and December. */
-"recurringReminderYearDescription" = "Event will occur every %@ in %@";
+"recurringReminderYearDescription" = "Ereignis wird alle %@ im %@ wiederholt.";
 
 /* Frquency for a reminder to happen, example monthly, weekly or yearly */
-"frequency" = "Frequency";
+"frequency" = "Häufigkeit";
 /* Int for a reminder to happen, 1, 2, 10, etc */
-"interval" = "Interval";
+"interval" = "Intervall";
 
-"deleteTagTitle" = "%@ is using %@";
-"deleteTagMessage" = "Remove all tasks with status %@ before deleting it.";
+"deleteTagTitle" = "%@ benutzt %@";
+"deleteTagMessage" = "Entferne alle Aufgaben mit dem Tag %@ bevor du ihn löscht.";
 
-"deletingFieldMessage" =  "Deleting this would remove it from all the tasks in %@";
+"deletingFieldMessage" =  "Löschen würde es von allen Aufgaben in %@ entfernen";
 
-"custom" = "Custom";
+"custom" = "Benutzerdefiniert";
