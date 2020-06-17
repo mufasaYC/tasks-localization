@@ -307,3 +307,5 @@
 "deletingFieldMessage" =  "سيؤدي حذف هذا إلى إزالته من جميع المهام الموجودة فيه %@";
 
 "custom" = "خصص";
+
+"copySupportId" = "Copy Support ID";

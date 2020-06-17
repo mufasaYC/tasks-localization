@@ -105,7 +105,7 @@
 "settingTitleNotifcationDescription" = "Gestisci le tue impostazioni per le notifiche";
 "settingTitleImportNotesDescription" = "Converti le tue note in attività";
 "settingTitleImportRemindersDescription" = "Importa i tuoi promemoria in sospeso";
-"settingTitleStatusDescription" = "Aggiungi, riordina o modifica gli stati";
+"settingTitleStatusDescription" = "Aggiungi, riordina, elimina o modifica gli stati";
 "settingTitleContactDescription" = "Richiedi una funzione o chiedici qualcosa.";
 "settingTitleTwitterDescription" = "Condividi un pò d'amore.";
 "settingTitleReviewDescription" = "Dicci cosa stiamo facendo in modo corretto o sbagliato.";
@@ -116,7 +116,7 @@
 "createTask" = "Crea un'attività";
 "editTask" = "Modifica attività";
 
-"addField" = "Aggiungi campo";
+"addField" = "Personalizza i campi";
 
 "lock" = "Blocca";
 "unlock" = "Sblocca";
@@ -265,45 +265,47 @@
 "unreadComments" = "Commenti non letti";
 
 "okay" = "Okay";
-"modifyFields" = "Modify fields";
-"settingTitleFieldDescription" = "Add, reorder, delete or modify fields";
+"modifyFields" = "Modifica i campi";
+"settingTitleFieldDescription" = "Aggiungi, riordina, elimina o modifica i campi";
 
 /* fields are title, date, tag, etc */
-"currentFields" = "Current Fields";
-"fieldsFooterLabel" = "\nTap to edit existing fields.\n\nYou can add new fields by tapping + on the top right menu";
-"repeatTask" = "Repeat task";
+"currentFields" = "Campi attuali";
+"fieldsFooterLabel" = "\nTap per modificare i campi esistenti. \n\nYou puoi aggiungere nuovi campi cliccando + nel menu in alto a destra";
+"repeatTask" = "Ripeti attività";
 
-"daily" = "Daily";
-"weekly" = "Weekly";
-"monthly" = "Monthly";
+"daily" = "Quotidiano";
+"weekly" = "Settimanalmente";
+"monthly" = "Mensilmente";
 
-"days" = "Days";
-"weeks" = "Weeks";
-"months" = "Months";
-"years" = "Years";
+"days" = "Giorni";
+"weeks" = "Settimane";
+"months" = "Mesi";
+"years" = "Anni";
 
-"day" = "Day";
-"week" = "Week";
-"month" = "Month";
-"year" = "Year";
+"day" = "Giorno";
+"week" = "Settimana";
+"month" = "Mese";
+"year" = "Anno";
 
 /* Event will occur every 2 days, Event will occur every day */
-"recurringReminderDayDescription" = "Event will occur every %@";
+"recurringReminderDayDescription" = "L'evento si verificherà ogni %@";
 
 /* Event will occur every week on Thursday, Event will occur every 2 weeks on Thurday and Friday. */
-"recurringReminderWeekDescription" = "Event will occur every %@ on %@";
+"recurringReminderWeekDescription" = "L'evento si verificherà ogni %@ di %@";
 
 /* Event will occur every year in July, Event will occur every 2 years in July and December. */
-"recurringReminderYearDescription" = "Event will occur every %@ in %@";
+"recurringReminderYearDescription" = "L'evento si verificherà ogni %@ in %@";
 
 /* Frquency for a reminder to happen, example monthly, weekly or yearly */
-"frequency" = "Frequency";
+"frequency" = "Frequenza";
 /* Int for a reminder to happen, 1, 2, 10, etc */
-"interval" = "Interval";
+"interval" = "Intervallo";
 
-"deleteTagTitle" = "%@ is using %@";
-"deleteTagMessage" = "Remove all tasks with status %@ before deleting it.";
+"deleteTagTitle" = "%@ sta usando %@";
+"deleteTagMessage" = "Rimuovi tutte le attività con stato %@ prima di eliminarle.";
 
-"deletingFieldMessage" =  "Deleting this would remove it from all the tasks in %@";
+"deletingFieldMessage" =  "L'eliminazione di questo campo lo rimuove da tutte le attività in %@";
 
-"custom" = "Custom";
+"custom" = "Personalizzare";
+
+"copySupportId" = "Copy Support ID";

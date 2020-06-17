@@ -85,7 +85,7 @@
 "settingIntegrationFooter" = "Déjanos una sugerencia sobre integraciones";
 
 "appIcons" = "Iconos de la app";
-"edit" = "Edición";
+"edit" = "Editar";
 "iCloudSharing" = "Compartir mediante iCloud";
 "lockWith" = "Bloquear con %@";
 "notifcationSettings" = "Ajustes de notificación";
@@ -122,7 +122,7 @@
 "lock" = "Bloquea";
 "unlock" = "Desbloquea";
 "invite" = "Invita colaboradores";
-"delete" = "Borra";
+"delete" = "Borrar";
 "settings" = "Ajustes";
 
 "bug" = "Bug";
@@ -307,3 +307,5 @@
 "deletingFieldMessage" = "Borrar esto eliminaría todas las tareas en %@";
 
 "custom" = "Personalizado";
+
+"copySupportId" = "Copy Support ID";

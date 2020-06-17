@@ -307,3 +307,5 @@
 "deletingFieldMessage" =  "Удаление приведет к исчезновению поля во всех задачах в %@";
 
 "custom" = "Настроить повтор";
+
+"copySupportId" = "Copy Support ID";

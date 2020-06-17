@@ -307,3 +307,5 @@
 "deletingFieldMessage" =  "Deleting this would remove it from all the tasks in %@";
 
 "custom" = "Custom";
+
+"copySupportId" = "Copy Support ID";

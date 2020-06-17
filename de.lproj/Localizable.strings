@@ -210,7 +210,7 @@
 
 "onboardingText" = "Erstelle Taks, teile Projekte, passe deinen Arbeitsablauf an und vieles mehr";
 
-"noteImport" = "Einfach einfügen und wir werden die Aufgabe für dich erstellen �";;
+"noteImport" = "Einfach einfügen und wir werden die Aufgabe für dich erstellen 😃";
 "paste" = "Einfügen";
 "nothingCopied" = "Nichts wurde kopiert";
 
@@ -225,9 +225,9 @@
 "or" = "oder";
 "createProject" = "Projekt erstellen";
 "sampleProject" = "Versuche ein Beispielprojekt";
-"projectCreatedTitle" = "� Hurra, füge jetzt Aufgaben zu deinem Projekt hinzu";;
+"projectCreatedTitle" = "😃 Hurra, füge jetzt Aufgaben zu deinem Projekt hinzu";
 
-"welcomeTitle" = "� Hallo, lass uns anfangen!";;
+"welcomeTitle" = "👋 Hallo, lass uns anfangen!";
 "welcomeSubtitle" = "Erstelle dein erstes Projekt!\nProjekte sind eine Sammlung von Aufgaben, wie";
 
 "home" = "Zuhause";
@@ -238,7 +238,7 @@
 "longPressingText" = "durch langes Drücken auf dein %@!";
 
 "createTag" = "Tag erstellen";
-"createTagTitle" = "� Es scheint, als hätte dieses Projekt keine Tags.";
+"createTagTitle" = "🏷 Es scheint, als hätte dieses Projekt keine Tags.";
 "createTagSubtitle" = "Tags helfen dir, deine Aufgaben besser zu organisieren. Dadurch hast du einen schnellen Zugang und eine einfache Übersicht. Einige Beispiele sind";
 "and" = "und";
 "kitchen" = "Küche";
@@ -307,3 +307,5 @@
 "deletingFieldMessage" =  "Löschen würde es von allen Aufgaben in %@ entfernen";
 
 "custom" = "Benutzerdefiniert";
+
+"copySupportId" = "Copy Support ID";
