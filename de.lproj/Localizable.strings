@@ -5,7 +5,7 @@
 
 "date" = "Datum";
  
-"subtasks" = "Unteraufgabe";
+"subtasks" = "Unteraufgaben";
 
 /* image, pdf, video, document, etc */
 "assets" = "Medien";
@@ -19,7 +19,7 @@
 "status" = "Status";
 "statuses" = "Status";
 
-"project" = "Projekt ";
+"project" = "Projekt";
 "projects" = "Projekte";
 
 /* type of a task e.g. new feature or improvement */
@@ -81,7 +81,7 @@
 "reachUs" = "Erreiche uns";
 "legal" = "Rechtliches";
 
-"settingIntegrationFooter" = "Gib uns eine Vorschlag für Integrationen";
+"settingIntegrationFooter" = "Gib uns einen Vorschlag für Integrationen";
 
 "appIcons" = "App-Icons";
 "edit" = "Bearbeiten";
@@ -152,7 +152,7 @@
 "restore" = "Käufe wiederherstellen";
 "restoring" = "Wiederherstellung deines vorherigen Kaufes";
 
-"importReminderScreen" = "Tippe unten, um deine laufenden Erinnerungen zu importieren �";
+"importReminderScreen" = "Tippe unten, um deine laufenden Erinnerungen zu importieren 😃";
 "noReminders" = "Keine Erinnerungen gefunden";
 "successfullyImported" = "Hinzugefügt!";
 
@@ -208,7 +208,7 @@
 /* Set the date to 9:00PM */
 "set" = "Einstellen";
 
-"onboardingText" = "Erstelle Taks, teile Projekte, passe deinen Arbeitsablauf an und vieles mehr";
+"onboardingText" = "Erstelle Tasks, teile Projekte, passe deinen Arbeitsablauf an und vieles mehr";
 
 "noteImport" = "Einfach einfügen und wir werden die Aufgabe für dich erstellen 😃";
 "paste" = "Einfügen";
